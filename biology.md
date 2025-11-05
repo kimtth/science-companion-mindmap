@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+flowchart LR
     Start([General Biology Overview<br/>🧭 Navigation Hub]):::green
     Start --> CellBio[Cell Biology<br/>📂 See: biology/biology-cell.md<br/>Cell structure, metabolism, division]:::green
     Start --> Genetics[Genetics<br/>📂 See: biology/biology-genetics.md<br/>DNA, gene expression, inheritance]:::green

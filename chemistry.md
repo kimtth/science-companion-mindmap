@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+flowchart LR
     Start([General Chemistry Overview<br/>🧭 Navigation Hub]):::orange
     Start --> AtomicStruct[Atomic Structure<br/>📂 See: chemistry/chemistry-atomic.md<br/>Electrons, periodic table, trends]:::orange
     Start --> ChemBonding[Chemical Bonding<br/>📂 See: chemistry/chemistry-bonding.md<br/>Ionic, covalent, molecular geometry]:::orange
@@ -8,7 +8,7 @@ flowchart TD
     Start --> Equilibrium[Equilibrium<br/>📂 See: chemistry/chemistry-equilibrium.md<br/>K, Le Châtelier, solubility]:::orange
     Start --> AcidsBase[Acids & Bases<br/>📂 See: chemistry/chemistry-acids-bases.md<br/>pH, buffers, titration]:::orange
     Start --> Redox[Redox & Electrochemistry<br/>📂 See: chemistry/chemistry-redox.md<br/>Oxidation-reduction, batteries]:::orange
-    Start --> OrganicChem[Organic Chemistry<br/>�� See: chemistry/chemistry-organic.md<br/>Hydrocarbons, functional groups]:::orange
+    Start --> OrganicChem[Organic Chemistry<br/>📂 See: chemistry/chemistry-organic.md<br/>Hydrocarbons, functional groups]:::orange
     Start --> TransitionNuclear[Transition & Nuclear<br/>📂 See: chemistry/chemistry-transition-nuclear.md<br/>Transition metals, radioactivity]:::orange
     
     AtomicStruct --> AtomicDetails[📄 Subatomic particles, isotopes<br/>Electron configuration, orbitals<br/>Periodic table & trends]:::lightorange
