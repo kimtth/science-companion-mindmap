@@ -6,22 +6,97 @@ This mindmap provides a comprehensive overview of college-level chemistry, cover
 ## 📚 Main Topics
 
 ### 1. Atomic Structure
-The foundation of chemistry - understanding atoms:
+The foundation of chemistry - understanding atoms through quantum mechanics. Modern atomic theory is based on wave mechanics:
 - **Subatomic Particles**: Protons, neutrons, electrons
+  - Protons define element identity (atomic number Z)
+  - Isotopes have same Z but different neutron number
+  - Electrons determine chemical behavior
+  - Quarks compose protons and neutrons (not directly relevant to chemistry)
 - **Electron Configuration**: Arrangement determining chemical behavior
+  - Quantum numbers: n (shell), ℓ (subshell), m_ℓ (orbital), m_s (spin)
+  - Orbitals are probability distributions, not paths
+  - Aufbau principle: fill lowest energy first
+  - Hund's rule: maximize unpaired spins in degenerate orbitals
+  - Pauli exclusion: max 2 electrons per orbital
+  - Shielding and effective nuclear charge Z_eff
 - **Periodic Table**: Organization revealing patterns and properties
+  - Groups (vertical): similar valence electron configuration
+  - Periods (horizontal): same number of electron shells
+  - Blocks: s, p, d, f based on highest energy subshell
+  - Metals, nonmetals, metalloids
+  - Representative (main group) vs transition elements
 - **Periodic Trends**: Atomic radius, ionization energy, electronegativity
+  - Atomic radius: decreases across (higher Z_eff), increases down (more shells)
+  - Ionization energy: increases across, decreases down
+  - Electron affinity: generally more negative across period
+  - Electronegativity (Pauling scale): F most electronegative (4.0)
+  - Metallic character: increases down and left
 
-**Key Applications**: Materials science, spectroscopy, understanding chemical reactivity
+**Conceptual Insights**:
+- Quantum mechanics required to explain atomic stability (classical physics predicts collapse)
+- Electron configuration explains all of chemistry
+- Periodic table is visual representation of quantum mechanics
+- Valence electrons determine bonding behavior
+- Core electrons shield valence from nucleus
+
+**Key Applications**: Materials science, spectroscopy, understanding chemical reactivity, predicting compound properties
 
 ### 2. Chemical Bonding
-Forces holding matter together:
+Forces holding matter together - from quantum mechanical overlap of orbitals. Bonding is fundamentally about electrons:
 - **Ionic Bonding**: Electron transfer forming salts
+  - Complete transfer from metal to nonmetal
+  - Electrostatic attraction between ions
+  - Lattice energy: energy to separate 1 mole of solid into gaseous ions
+  - Lattice energy ∝ (charge product)/(ion distance)
+  - Born-Haber cycle: thermodynamic analysis
+  - Coordination number in ionic crystals
 - **Covalent Bonding**: Electron sharing in molecules
-- **Molecular Geometry**: 3D shapes (VSEPR theory)
-- **Intermolecular Forces**: Forces between molecules determining physical properties
+  - Valence bond theory: orbital overlap
+  - Molecular orbital theory: linear combination of atomic orbitals (LCAO)
+  - Bonding MO (lower energy) vs antibonding MO (higher energy)
+  - Bond order = (bonding e⁻ - antibonding e⁻)/2
+  - Sigma (σ) bonds: end-on overlap (single bonds)
+  - Pi (π) bonds: side-to-side overlap (double/triple bonds)
+  - Resonance: electron delocalization, molecule is hybrid
+  - Formal charge minimization for best Lewis structure
+  - Octet rule (and exceptions: expanded octets for period 3+)
+- **Hybridization**: Mixing atomic orbitals to explain geometry
+  - sp: linear (180°), 2 regions, e.g., BeCl₂, CO₂
+  - sp²: trigonal planar (120°), 3 regions, e.g., BF₃, C₂H₄
+  - sp³: tetrahedral (109.5°), 4 regions, e.g., CH₄, NH₃, H₂O
+  - sp³d: trigonal bipyramidal (90°, 120°), 5 regions
+  - sp³d²: octahedral (90°), 6 regions
+  - Lone pairs repel more than bonding pairs (affects angles)
+- **Molecular Geometry (VSEPR)**: 3D shapes from electron domain repulsion
+  - Electron domains include bonding and lone pairs
+  - Lone pairs compress bond angles
+  - Linear → Bent, Trigonal planar → Bent, Tetrahedral → Trigonal pyramidal → Bent
+  - Polarity depends on geometry: symmetry cancels dipoles
+- **Metallic Bonding**: Delocalized "sea of electrons"
+  - Explains conductivity, malleability, luster
+  - Band theory: conduction and valence bands
+  - Semiconductors: small band gap
+- **Intermolecular Forces** (IMFs): Forces between molecules
+  1. **London dispersion**: Temporary dipoles (all molecules)
+     - Strength increases with molecular size/surface area
+     - Polarizability: ease of electron cloud distortion
+  2. **Dipole-dipole**: Permanent dipoles align (polar molecules)
+     - Stronger than dispersion for similar size
+  3. **Hydrogen bonding**: H-F, H-O, H-N (strongest IMF)
+     - Accounts for high boiling points of H₂O, NH₃, HF
+     - Critical for DNA structure and protein folding
+  4. **Ion-dipole**: Ions with polar molecules (e.g., NaCl in H₂O)
+     - Strongest IMF, enables ionic compound dissolution
 
-**Key Applications**: Drug design, materials engineering, polymer science, nanotechnology
+**Conceptual Insights**:
+- Covalent bonding is quantum mechanical phenomenon (orbital overlap)
+- Ionic and covalent are extremes of bonding continuum
+- Electronegativity difference predicts bond character
+- Resonance structures don't oscillate; molecule is hybrid
+- Molecular shape determines properties (polarity, reactivity)
+- IMFs determine physical properties (melting/boiling points, viscosity)
+
+**Key Applications**: Drug design, materials engineering, polymer science, nanotechnology, catalysis, supramolecular chemistry
 
 ### 3. Stoichiometry
 Quantitative relationships in chemistry:
@@ -42,58 +117,424 @@ Physical forms and phase transitions:
 **Key Applications**: Materials processing, weather prediction, cryogenics, refrigeration
 
 ### 5. Thermochemistry
-Energy in chemical reactions:
-- **Enthalpy**: Heat content and reaction heat
-- **Entropy**: Disorder and spontaneity
-- **Gibbs Free Energy**: Predicting spontaneous reactions
+Energy changes in chemical reactions - chemistry is driven by energy. Thermodynamics determines what reactions occur:
+- **Enthalpy (H)**: Heat content and reaction heat
+  - State function (path-independent)
+  - Exothermic: ΔH < 0 (releases heat, products more stable)
+  - Endothermic: ΔH > 0 (absorbs heat, products less stable)
+  - Standard enthalpy of formation ΔH°_f: from elements at standard state
+  - Hess's law: enthalpy is additive (consequence of state function)
+  - Bond enthalpies: energy to break bonds
+  - ΔH_rxn = Σ(bonds broken) - Σ(bonds formed)
+- **Entropy (S)**: Disorder and spontaneity
+  - Measure of energy dispersal or disorder
+  - S increases: solid → liquid → gas, dissolving, more particles
+  - Second law: ΔS_universe > 0 for spontaneous processes
+  - Third law: S = 0 at 0 K for perfect crystal
+  - ΔS° = ΣS°(products) - ΣS°(reactants)
+  - Molecular interpretation: number of accessible microstates
+- **Gibbs Free Energy (G)**: Predicting spontaneous reactions
+  - G = H - TS combines enthalpy and entropy
+  - ΔG < 0: spontaneous (thermodynamically favorable)
+  - ΔG > 0: non-spontaneous (requires energy input)
+  - ΔG = 0: equilibrium (no net change)
+  - Standard: ΔG° = ΔH° - TΔS°
+  - ΔG° = -RT ln K (connects thermodynamics and equilibrium)
+  - Non-standard: ΔG = ΔG° + RT ln Q
+  - Temperature can change spontaneity sign
 - **Calorimetry**: Measuring heat changes
+  - q = mcΔT (constant pressure, specific heat)
+  - Coffee cup calorimeter: constant P, measures ΔH
+  - Bomb calorimeter: constant V, measures ΔU
+  - ΔH = ΔU + PΔV (usually ΔH ≈ ΔU for condensed phases)
 
-**Key Applications**: Energy storage, fuel efficiency, chemical manufacturing, climate science
+**Thermodynamic Principles**:
+- First law: ΔU = q + w (energy conservation)
+- Second law: entropy of universe increases
+- Spontaneity depends on both ΔH and ΔS
+- Four cases:
+  1. ΔH < 0, ΔS > 0: always spontaneous
+  2. ΔH > 0, ΔS < 0: never spontaneous
+  3. ΔH < 0, ΔS < 0: spontaneous at low T
+  4. ΔH > 0, ΔS > 0: spontaneous at high T
+- Standard state: 1 bar, 25°C, 1 M for solutions
+
+**Conceptual Insights**:
+- Thermodynamics tells if reaction occurs, not how fast
+- Exothermic reactions not always spontaneous (entropy matters)
+- Life maintains low entropy locally by increasing entropy elsewhere
+- Free energy is "useful work" available from reaction
+- Coupling reactions: non-spontaneous driven by spontaneous
+
+**Key Applications**: Energy storage, fuel efficiency, chemical manufacturing, climate science, biochemical reactions, battery design
 
 ### 6. Chemical Kinetics
-Reaction rates and mechanisms:
+Reaction rates and mechanisms - how fast reactions occur. Kinetics complements thermodynamics:
 - **Reaction Rates**: How fast reactions occur
+  - Rate = -Δ[reactant]/Δt = Δ[product]/Δt
+  - Depends on: concentration, temperature, surface area, catalysts
+  - Instantaneous vs average rate
+  - Stoichiometry affects relative rates
 - **Rate Laws**: Mathematical relationships
-- **Activation Energy**: Energy barriers to reactions
+  - Rate = k[A]^m[B]^n (determined experimentally, not from equation)
+  - k = rate constant (temperature dependent)
+  - m, n = reaction orders (can be 0, 1, 2, or fractional)
+  - Overall order = m + n
+  - Units of k depend on overall order
+- **Integrated Rate Laws**: Concentration vs time
+  - Zero order: [A] = [A]₀ - kt; linear [A] vs t
+  - First order: ln[A] = ln[A]₀ - kt; linear ln[A] vs t
+  - Second order: 1/[A] = 1/[A]₀ + kt; linear 1/[A] vs t
+  - Half-life depends on order and initial concentration (except 1st order)
+- **Activation Energy (E_a)**: Energy barrier to reactions
+  - Minimum energy for successful collision
+  - Transition state (activated complex): highest energy along reaction path
+  - Arrhenius equation: k = Ae^(-E_a/RT)
+  - ln k vs 1/T gives straight line (slope = -E_a/R)
+  - Higher T: more molecules exceed E_a (exponential increase in k)
+  - Rule of thumb: rate doubles per 10°C increase
+- **Reaction Mechanisms**: Step-by-step pathway
+  - Elementary steps: single molecular event
+  - Molecularity: number of molecules in elementary step (uni-, bi-, termolecular)
+  - Rate-determining step: slowest step controls overall rate
+  - Intermediates: produced then consumed (not in overall equation)
+  - Mechanism must give overall equation when summed
+  - Rate law derived from mechanism using fast equilibrium or steady-state approximation
+- **Collision Theory**: Molecular basis of kinetics
+  - Molecules must collide to react
+  - Sufficient energy (> E_a) required
+  - Proper orientation needed
+  - Rate ∝ collision frequency × fraction with E > E_a × orientation factor
 - **Catalysis**: Speeding reactions without consumption
+  - Lowers activation energy E_a
+  - Provides alternate mechanism with lower E_a
+  - Homogeneous: same phase as reactants
+  - Heterogeneous: different phase (surface reactions)
+  - Enzymes: biological catalysts (highly specific)
+  - Don't affect equilibrium position or ΔG (only rate)
+  - Catalytic cycles: regenerated at end
 
-**Key Applications**: Industrial production, enzyme function, drug development, pollution control
+**Conceptual Insights**:
+- Thermodynamics: "will it go?"; Kinetics: "how fast?"
+- Rate law must be determined experimentally
+- Elementary steps follow rate law from stoichiometry
+- Temperature affects rate exponentially (Arrhenius)
+- Catalysts allow new pathway, don't change thermodynamics
+- Enzyme specificity from precise active site geometry
+
+**Key Applications**: Industrial production, enzyme function, drug development, pollution control, food preservation, polymer synthesis
 
 ### 7. Chemical Equilibrium
-Dynamic balance in reactions:
-- **Equilibrium Constant**: Quantifying equilibrium position
-- **Le Châtelier's Principle**: Predicting shifts
-- **Solubility Equilibria**: Precipitation reactions
-- **ICE Tables**: Problem-solving tool
+Dynamic balance in reversible reactions - forward and reverse rates equal. Most reactions reach equilibrium:
+- **Equilibrium Constant (K)**: Quantifying equilibrium position
+  - K_c = [products]/[reactants] with stoichiometric exponents
+  - K_p = (P_products)/(P_reactants) for gases
+  - K_p = K_c(RT)^Δn where Δn = Δ(moles of gas)
+  - Pure solids and liquids omitted from K expression
+  - Large K (>10³): products favored
+  - Small K (<10⁻³): reactants favored
+  - K changes only with temperature
+  - K relates to ΔG°: ΔG° = -RT ln K
+- **Reaction Quotient (Q)**: Non-equilibrium conditions
+  - Same form as K but not at equilibrium
+  - Q < K: forward reaction (produce more products)
+  - Q > K: reverse reaction (produce more reactants)
+  - Q = K: at equilibrium (no net change)
+  - Predicts direction of shift
+- **Le Châtelier's Principle**: System responds to oppose stress
+  - Add reactant/remove product → shift right (more products)
+  - Remove reactant/add product → shift left (more reactants)
+  - Increase temperature: endothermic direction (treat heat as reactant/product)
+  - Decrease temperature: exothermic direction
+  - Increase pressure/decrease volume: fewer moles of gas side
+  - Catalysts: no effect on equilibrium position (only rate to equilibrium)
+  - Inert gas at constant V: no effect (partial pressures unchanged)
+- **ICE Tables**: Systematic problem-solving tool
+  - Initial concentrations
+  - Change in concentrations (stoichiometry)
+  - Equilibrium concentrations
+  - Substitute into K expression
+  - Small K approximation: x negligible if K < 10⁻³ and initial >> K
+- **Solubility Equilibrium**: Precipitation reactions
+  - K_sp = [cation]^m[anion]^n (solubility product)
+  - Dissolution: solid ⇌ ions in solution
+  - Q_sp < K_sp: unsaturated (more can dissolve)
+  - Q_sp = K_sp: saturated (equilibrium)
+  - Q_sp > K_sp: supersaturated (precipitates)
+  - **Common ion effect**: reduces solubility
+  - Complex ion formation increases solubility
+  - pH affects solubility of salts with basic/acidic ions
 
-**Key Applications**: Industrial chemistry, environmental chemistry, biochemical systems
+**Equilibrium Principles**:
+- Equilibrium is dynamic: forward and reverse rates equal, not stopped
+- K is ratio of rate constants: K = k_forward/k_reverse
+- Equilibrium reached from either direction gives same K
+- Multiple equilibria: K_overall = K₁ × K₂ × ...
+- Reverse reaction: K_reverse = 1/K_forward
+- Temperature is only factor that changes K value
+
+**Conceptual Insights**:
+- Equilibrium doesn't mean equal concentrations
+- Le Châtelier: system minimizes imposed stress
+- Adding catalyst speeds both directions equally
+- Pressure affects equilibrium only if Δn_gas ≠ 0
+- Common ion effect from Le Châtelier principle
+
+**Key Applications**: Industrial chemistry (Haber process), environmental chemistry, biochemical systems, buffer design, precipitation analysis
 
 ### 8. Acids and Bases
-Proton transfer chemistry:
-- **Acid-Base Theories**: Arrhenius, Brønsted-Lowry
+Proton transfer chemistry - fundamental to aqueous chemistry and biochemistry. Multiple theoretical frameworks:
+- **Acid-Base Theories**: Evolution of concepts
+  - **Arrhenius**: Acids produce H⁺, bases produce OH⁻ (aqueous only)
+  - **Brønsted-Lowry**: Acids donate H⁺, bases accept H⁺ (general)
+    - Conjugate pairs: acid ⇌ base + H⁺
+    - Amphoteric: can act as acid or base (H₂O, HSO₄⁻)
+  - **Lewis**: Acids accept electron pairs, bases donate electron pairs (most general)
+    - Includes reactions without H⁺ (BF₃ + NH₃)
 - **pH Scale**: Measuring acidity
-- **Buffers**: Resisting pH changes
+  - pH = -log[H⁺], pOH = -log[OH⁻]
+  - pH + pOH = 14 at 25°C (from K_w)
+  - K_w = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 25°C (temperature dependent)
+  - pH < 7: acidic; pH = 7: neutral; pH > 7: basic
+  - Each pH unit = 10× change in [H⁺]
+- **Acid-Base Strength**: K_a and K_b values
+  - Strong acids: completely dissociate (HCl, HNO₃, H₂SO₄, HClO₄)
+  - Weak acids: partially dissociate (CH₃COOH, HF)
+  - K_a = [H⁺][A⁻]/[HA] (acid dissociation constant)
+  - Strong bases: Group 1 and 2 hydroxides
+  - Weak bases: partially accept H⁺ (NH₃, amines)
+  - K_b = [OH⁻][BH⁺]/[B] (base dissociation constant)
+  - Conjugate pair: K_a × K_b = K_w
+  - Larger K_a = stronger acid; Larger K_b = stronger base
+  - pK_a = -log K_a (convenient for weak acids)
+  - Percent ionization = ([H⁺]_eq/[HA]₀) × 100%
+- **Polyprotic Acids**: Multiple ionizable protons
+  - H₂SO₄, H₃PO₄, H₂CO₃
+  - K_a1 >> K_a2 >> K_a3 (stepwise ionization)
+  - pH calculations dominated by first ionization
+- **Buffer Solutions**: Resisting pH changes
+  - Weak acid + conjugate base (or weak base + conjugate acid)
+  - **Henderson-Hasselbalch**: pH = pK_a + log([A⁻]/[HA])
+  - Maximum buffer capacity at pH = pK_a (equal concentrations)
+  - Buffer range: pH = pK_a ± 1
+  - Buffers resist pH change by neutralizing added acid/base
+  - Blood buffer: H₂CO₃/HCO₃⁻ (pH ≈ 7.4)
+  - Buffer capacity depends on concentration and ratio
 - **Titrations**: Analytical technique
+  - Add titrant to analyte until stoichiometric equivalence
+  - **Equivalence point**: moles acid = moles base
+  - **Endpoint**: indicator color change (should match equivalence)
+  - Strong acid + strong base: pH = 7 at equivalence
+  - Weak acid + strong base: pH > 7 (conjugate base present)
+  - Strong acid + weak base: pH < 7 (conjugate acid present)
+  - Weak acid + weak base: pH depends on K_a and K_b
+  - Titration curve: pH vs volume added
+  - Buffer region: before equivalence point (weak acid/base)
+  - Choose indicator with pK_in near equivalence point pH
 
-**Key Applications**: Medicine, biology, environmental science, food chemistry
+**Acid-Base Principles**:
+- Water autoionizes: 2H₂O ⇌ H₃O⁺ + OH⁻
+- Stronger acid has weaker conjugate base
+- Leveling effect: strong acids appear equally strong in water
+- Salt hydrolysis affects pH (cation/anion from weak acid/base)
+- Buffer works by common ion effect
+
+**Conceptual Insights**:
+- pH scale is logarithmic (exponential [H⁺] differences)
+- Weak acids in equilibrium: use ICE table and K_a
+- Buffers most effective when pH ≈ pK_a (equal weak acid and conjugate base)
+- Titration curve shape reveals acid/base strength
+- Biological systems require precise pH control (enzyme function)
+
+**Key Applications**: Medicine, biology, environmental science, food chemistry, industrial processes, analytical chemistry, pharmaceutical formulation
 
 ### 9. Redox Reactions
-Electron transfer processes:
-- **Oxidation States**: Tracking electron transfer
+Electron transfer processes - energy conversion between chemical and electrical. Oxidation and reduction always coupled:
+- **Oxidation States (O.N.)**: Tracking electron transfer
+  - Rules: free element = 0, monatomic ion = charge, H = +1 (usually), O = -2 (usually), Group 1 = +1, Group 2 = +2
+  - Sum of O.N. = charge of species
+  - **Oxidation**: loss of electrons (O.N. increases)
+  - **Reduction**: gain of electrons (O.N. decreases)
+  - Mnemonic: **OIL RIG** (Oxidation Is Loss, Reduction Is Gain)
+  - Or: **LEO GER** (Lose Electrons Oxidation, Gain Electrons Reduction)
 - **Balancing Redox**: Half-reaction method
-- **Electrochemistry**: Converting chemical to electrical energy
-- **Batteries and Electrolysis**: Practical applications
+  1. Separate oxidation and reduction half-reactions
+  2. Balance atoms except O and H
+  3. Balance O by adding H₂O
+  4. Balance H by adding H⁺ (acidic) or OH⁻ (basic)
+  5. Balance charge by adding electrons
+  6. Multiply to equalize electrons transferred
+  7. Add half-reactions and cancel common terms
+  8. In basic solution: add OH⁻ to neutralize H⁺
+- **Electrochemical Cells**: Converting between chemical and electrical energy
+  - **Galvanic (voltaic) cell**: Spontaneous (ΔG < 0), generates electricity
+    - Anode: oxidation occurs (negative terminal)
+    - Cathode: reduction occurs (positive terminal)
+    - Electrons flow anode → cathode through external circuit
+    - Salt bridge maintains charge neutrality
+    - Cell notation: anode | anode solution || cathode solution | cathode
+  - **Electrolytic cell**: Non-spontaneous (ΔG > 0), requires electricity
+    - Anode: oxidation (positive terminal, connected to +)
+    - Cathode: reduction (negative terminal, connected to -)
+    - Used for: electroplating, electrolysis, charging batteries
+- **Standard Reduction Potentials (E°)**: Measuring tendency to be reduced
+  - Standard conditions: 1 M, 1 bar, 25°C
+  - Standard hydrogen electrode (SHE): 2H⁺ + 2e⁻ → H₂, E° = 0.00 V (reference)
+  - More positive E°: stronger oxidizing agent (readily reduced)
+  - More negative E°: stronger reducing agent (readily oxidized)
+  - Tables list reduction half-reactions
+- **Cell Potential (E_cell)**: Voltage of cell
+  - E°_cell = E°_cathode - E°_anode
+  - E°_cell > 0: spontaneous (galvanic)
+  - E°_cell < 0: non-spontaneous (electrolytic)
+  - Relationship to free energy: ΔG° = -nFE°_cell
+    - n = moles of electrons transferred
+    - F = Faraday constant = 96,485 C/mol
+  - At equilibrium: E_cell = 0, ΔG = 0
+  - E°_cell = (RT/nF) ln K = (0.0592/n) log K at 25°C
+- **Nernst Equation**: Non-standard conditions
+  - E_cell = E°_cell - (RT/nF) ln Q
+  - E_cell = E°_cell - (0.0592/n) log Q at 25°C
+  - Q = reaction quotient
+  - As cell operates: Q increases, E_cell decreases
+  - At equilibrium: Q = K, E_cell = 0
+- **Practical Electrochemistry**:
+  - **Batteries**: Galvanic cells
+    - Primary: single use (alkaline, zinc-carbon)
+    - Secondary: rechargeable (lead-acid, lithium-ion)
+  - **Fuel cells**: Continuous reactant supply (H₂/O₂)
+  - **Corrosion**: Unwanted oxidation (rust: 4Fe + 3O₂ → 2Fe₂O₃)
+    - Prevention: coating, cathodic protection, alloying
+  - **Electrolysis**: Decompose compounds
+    - Water: 2H₂O → 2H₂ + O₂
+    - Aluminum production: Al₂O₃ → Al
+  - **Electroplating**: Deposit metal coating
 
-**Key Applications**: Batteries, corrosion prevention, electroplating, energy storage
+**Redox Principles**:
+- Oxidation and reduction always occur together
+- Electrons cannot exist free in solution
+- Spontaneous: electrons flow from lower to higher E°
+- Intensive property: E° doesn't change with amount
+- Electrochemistry links thermodynamics (ΔG) and electricity (E)
+
+**Conceptual Insights**:
+- Redox is electron transfer (acid-base is proton transfer)
+- Half-reactions are conceptual; both occur simultaneously
+- Standard potentials predict spontaneity under standard conditions
+- Batteries convert chemical potential energy to electrical work
+- Concentration affects cell potential (Nernst equation)
+- Biological redox: electron transport chain in respiration
+
+**Key Applications**: Batteries, corrosion prevention, electroplating, energy storage, fuel cells, metal refining, wastewater treatment, sensors
 
 ### 10. Organic Chemistry
-Carbon-based molecules:
-- **Hydrocarbons**: Alkanes, alkenes, alkynes, aromatics
+Carbon-based molecules - the chemistry of life. Carbon's unique bonding enables molecular diversity:
+- **Why Carbon?**: Foundation of organic chemistry
+  - Forms 4 covalent bonds (tetravalent)
+  - Can form single, double, triple bonds
+  - Catenation: forms long chains and rings
+  - Forms stable bonds with H, O, N, S, P, halogens
+  - Moderate electronegativity: stable bonds
+- **Hydrocarbons**: Compounds of C and H only
+  - **Alkanes**: C_nH_{2n+2} (single bonds, saturated)
+    - Tetrahedral geometry, sp³ hybridized
+    - Free rotation around C-C bonds
+    - Nomenclature: meth-, eth-, prop-, but-, pent-, hex-...
+    - Relatively unreactive (combustion, halogenation)
+  - **Alkenes**: C_nH_{2n} (C=C double bonds)
+    - Trigonal planar at C=C, sp² hybridized
+    - Restricted rotation: cis/trans isomers
+    - More reactive: addition reactions across C=C
+  - **Alkynes**: C_nH_{2n-2} (C≡C triple bonds)
+    - Linear geometry, sp hybridized
+    - Even more reactive than alkenes
+  - **Aromatics**: Benzene ring C₆H₆ and derivatives
+    - Resonance-stabilized, planar, sp² hybridized
+    - Unusual stability: 6 π electrons (Hückel's rule)
+    - Electrophilic aromatic substitution
 - **Functional Groups**: Characteristic reactive groups
+  - **Alcohols (R-OH)**: Polar, H-bonding
+    - Primary (1°), secondary (2°), tertiary (3°)
+    - Oxidation: 1° → aldehyde → carboxylic acid; 2° → ketone
+  - **Aldehydes (R-CHO)**: Carbonyl at chain end
+    - Oxidation to carboxylic acids
+    - Reduction to primary alcohols
+  - **Ketones (R-CO-R')**: Carbonyl in middle
+    - Less reactive than aldehydes
+    - Reduction to secondary alcohols
+  - **Carboxylic acids (R-COOH)**: Acidic, H-bonding
+    - Weak acids (pK_a ≈ 4-5)
+    - Deprotonation to carboxylate (R-COO⁻)
+    - Esterification with alcohols
+  - **Esters (R-COO-R')**: From acids + alcohols
+    - Pleasant fruit odors
+    - Hydrolysis to acid + alcohol
+    - Fats and oils are triglyceride esters
+  - **Amines (R-NH₂)**: Organic bases
+    - Primary (1°), secondary (2°), tertiary (3°)
+    - Basic: accept H⁺
+    - Important in drugs and biomolecules
+  - **Amides (R-CO-NH₂)**: Peptide bond linkage
+    - Resonance stabilization (partial double bond character)
+    - Proteins linked by peptide bonds
+    - More stable than esters
+  - **Ethers (R-O-R')**: Relatively unreactive
+  - **Haloalkanes (R-X)**: Reactive, good leaving groups
 - **Isomers**: Same formula, different structures
-- **Biological Molecules**: Carbohydrates, lipids, proteins, nucleic acids
+  - **Structural (constitutional)**: Different connectivity
+    - Chain isomers, position isomers, functional group isomers
+  - **Stereoisomers**: Same connectivity, different 3D arrangement
+    - **Geometric (cis/trans)**: Restricted rotation (C=C or rings)
+    - **Optical (enantiomers)**: Chiral, mirror images, rotate plane-polarized light
+      - Chiral center: 4 different groups on carbon
+      - R/S nomenclature (Cahn-Ingold-Prelog priority)
+      - Enantiomers have identical physical properties except optical rotation
+      - Critical in biology: enzymes are stereospecific
+    - **Diastereomers**: Stereoisomers that aren't enantiomers
+- **Reaction Types**:
+  - **Addition**: Add atoms across double/triple bond
+  - **Substitution**: Replace one atom/group with another
+    - S_N1 (first order), S_N2 (second order)
+  - **Elimination**: Remove atoms to form double bond
+    - E1 (first order), E2 (second order)
+  - **Condensation**: Join molecules, eliminate small molecule (often H₂O)
+  - **Oxidation-Reduction**: Change in C oxidation state
+- **Polymers**: Large molecules from repeating units
+  - **Addition polymers**: Monomers add (polyethylene from ethene)
+  - **Condensation polymers**: Monomers condense, lose small molecule (nylon, polyester)
+  - Plastics, rubber, fibers
+- **Biological Molecules**: Organic chemistry of life
+  - **Carbohydrates**: Sugars and starches (polyhydroxy aldehydes/ketones)
+    - Monosaccharides (glucose), disaccharides (sucrose), polysaccharides (starch, cellulose)
+    - Energy storage and structural support
+  - **Lipids**: Fats, oils, phospholipids, steroids
+    - Nonpolar, hydrophobic
+    - Energy storage, membranes, signaling
+  - **Proteins**: Polymers of amino acids
+    - 20 standard amino acids
+    - Peptide bonds (amide linkages)
+    - Structure: primary (sequence) → secondary (α-helix, β-sheet) → tertiary (3D fold) → quaternary (multiple chains)
+    - Functions: enzymes, structure, transport, signaling, antibodies
+  - **Nucleic acids**: DNA and RNA
+    - Nucleotide polymers: phosphate-sugar-base
+    - DNA: genetic information storage
+    - RNA: protein synthesis, regulation
 
-**Key Applications**: Pharmaceuticals, plastics, fuels, biochemistry, materials
+**Organic Chemistry Principles**:
+- Structure determines properties
+- Electronegativity differences create polar bonds and reactive sites
+- Resonance stabilization lowers reactivity
+- Steric hindrance affects reactivity
+- Functional groups determine chemical behavior
+
+**Conceptual Insights**:
+- Carbon's versatility enables complexity of life
+- Isomerism increases diversity exponentially
+- Chirality critical for biological activity (one enantiomer may be active, other inactive/toxic)
+- Organic reactions classified by mechanism
+- Biochemistry is applied organic chemistry
+
+**Key Applications**: Pharmaceuticals, plastics, fuels, biochemistry, materials, dyes, pesticides, food chemistry, forensics, drug design
 
 ## 🔗 Interconnections
 - Atomic structure explains bonding and reactivity

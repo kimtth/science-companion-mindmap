@@ -5,6 +5,8 @@
 [![Mermaid](https://img.shields.io/badge/Made%20with-Mermaid-ff69b4)](https://mermaid.js.org/)
 [![College Level](https://img.shields.io/badge/Level-College-blue)](https://github.com)
 
+This repository is inspired by [Grokipedia](https://grokipedia.com/), which demonstrates how LLMs can understand world knowledge.
+
 ## 📖 Overview
 
 This repository contains **interactive flowchart mindmaps** for three core science disciplines, designed to help students visualize and understand the hierarchical relationships between concepts in:
