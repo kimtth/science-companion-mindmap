@@ -487,13 +487,113 @@ Interactions between organisms and their environment - study of distribution and
 **Key Applications**: Conservation, wildlife management, agriculture, climate change mitigation, sustainability, fisheries management, ecosystem restoration, environmental policy
 
 ### 5. Animal & Plant Biology
-Structure and function of organisms:
-- **Plant Structure**: Roots, stems, leaves adapted for photosynthesis
-- **Plant Reproduction**: Flowers, pollination, seeds
-- **Animal Organ Systems**: Circulatory, nervous, digestive, immune systems
-- **Homeostasis**: Maintaining internal stability
+Structure and function of organisms across all systems:
 
-**Key Applications**: Medicine, agriculture, veterinary science, pharmacology
+**Plant Structure & Function**:
+- **Roots**: Absorption (root hairs increase surface area), anchorage, storage; types: taproot vs fibrous
+- **Stems**: Support, transport (xylem for water/minerals ↑, phloem for sugars ↓), storage; vascular tissue arrangement
+- **Leaves**: Photosynthesis site, gas exchange (stomata with guard cells), transpiration; anatomy: epidermis, mesophyll (palisade/spongy), veins
+- **Meristems**: Apical (primary growth/length) vs lateral/cambium (secondary growth/width)
+
+**Plant Reproduction**:
+- **Flowers**: Complete (4 whorls: sepals, petals, stamens, carpels) vs incomplete; perfect vs imperfect
+- **Pollination**: Self vs cross; vectors: wind, insects, birds, bats
+- **Double fertilization**: Sperm + egg → zygote (2n); sperm + polar nuclei → endosperm (3n)
+- **Seeds**: Embryo + stored food + seed coat; dispersal mechanisms
+- **Alternation of generations**: Sporophyte (2n, dominant in seed plants) ↔ Gametophyte (n, reduced)
+
+**Animal Organ Systems** (8 major systems):
+1. **Circulatory**: Heart (4 chambers in mammals/birds), blood vessels (arteries→arterioles→capillaries→venules→veins), blood (RBC, WBC, platelets, plasma); cardiac cycle (systole/diastole), blood pressure
+2. **Respiratory**: Gas exchange surface; lungs (alveoli maximize surface area), breathing mechanism (diaphragm, intercostals), hemoglobin O₂ binding (cooperative, responds to pH/CO₂)
+3. **Digestive**: Alimentary canal (mouth→esophagus→stomach→small intestine→large intestine); mechanical/chemical digestion, enzymatic breakdown, absorption (villi/microvilli), liver (bile), pancreas (enzymes/hormones)
+4. **Excretory**: Kidneys (nephrons: glomerulus, Bowman's capsule, tubules), filtration→reabsorption→secretion→excretion; osmoregulation, maintain water/salt/pH balance
+5. **Nervous**: Neurons (dendrites→soma→axon→terminals), action potential (Na⁺ in, K⁺ out), synapse (neurotransmitters), CNS (brain/spinal cord) vs PNS (somatic/autonomic); brain regions: cerebrum, cerebellum, brainstem; sensory systems (vision, hearing, etc.)
+6. **Endocrine**: Hormones (chemical messengers in blood); glands: pituitary (master), thyroid, adrenals, pancreas (insulin/glucagon), gonads; feedback mechanisms (negative/positive)
+7. **Immune**: Innate (barriers, phagocytes, inflammation, complement) vs adaptive (B cells→antibodies, T cells→cell-mediated); antigen recognition, clonal selection, memory cells, vaccines
+8. **Reproductive**: Male (testes→sperm, testosterone) vs female (ovaries→eggs, estrogen/progesterone); gametogenesis (meiosis), fertilization, development
+
+**Homeostasis**: Maintaining stable internal environment
+- **Thermoregulation**: Ectotherms vs endotherms; behavioral/physiological responses
+- **Water balance**: Osmoregulation in different environments
+- **Blood glucose**: Insulin (lowers) vs glucagon (raises); diabetes
+- **pH regulation**: Buffer systems, respiratory/renal compensation
+
+**Key Applications**: Medicine, agriculture, veterinary science, pharmacology, physiology research
+
+### 6. Diversity of Life
+Complete survey of life's diversity from viruses to vertebrates:
+
+**Viruses** (Non-living infectious agents):
+- **Structure**: Nucleic acid (DNA or RNA, single/double-stranded) + protein coat (capsid) ± envelope
+- **Replication**: Lytic cycle (immediate) vs lysogenic cycle (integrated prophage)
+- **Classification**: By nucleic acid type, shape, host range
+- **Examples**: Bacteriophages, influenza, HIV, SARS-CoV-2
+- **Evolution**: Rapid mutation, emerging diseases, zoonotic transmission
+
+**Prokaryotes** (Domains Bacteria and Archaea):
+- **Bacteria**: Peptidoglycan cell walls, diverse shapes (cocci, bacilli, spirilla), flagella, pili; Gram-positive vs Gram-negative
+- **Archaea**: Extremophiles (thermophiles, halophiles, methanogens); unique membrane lipids, no peptidoglycan
+- **Metabolism diversity**: Autotrophs (photoautotrophs, chemoautotrophs) vs heterotrophs
+- **Ecological roles**: Nitrogen fixation, decomposition, gut microbiome, pathogens
+- **Reproduction**: Binary fission; genetic exchange via conjugation, transformation, transduction
+
+**Protists** (Kingdom Protista - paraphyletic):
+- **Algae**: Photosynthetic (green, red, brown algae), primary producers
+- **Protozoans**: Heterotrophic; groups: amoeboids, flagellates, ciliates, apicomplexans (Plasmodium)
+- **Slime molds**: Cellular vs plasmodial; decomposers
+- **Ecological importance**: Base of aquatic food webs, symbioses (zooxanthellae in corals)
+
+**Fungi** (Kingdom Fungi):
+- **Structure**: Hyphae (filaments) → mycelium (network); chitin cell walls; heterotrophic
+- **Reproduction**: Asexual (spores, budding) vs sexual (fusion of hyphae, spore formation)
+- **Groups**: Chytrids, zygomycetes, ascomycetes (sac fungi), basidiomycetes (club fungi)
+- **Ecological roles**: Decomposers (nutrient recycling), mycorrhizae (plant root symbiosis), lichens (fungus-algae symbiosis)
+- **Applications**: Food (mushrooms, cheese, bread), antibiotics (penicillin), fermentation
+
+**Plant Diversity** (Kingdom Plantae):
+- **Bryophytes** (mosses, liverworts, hornworts): No vascular tissue, gametophyte dominant, require water for reproduction
+- **Seedless vascular** (ferns, horsetails, club mosses): Vascular tissue (xylem/phloem), sporophyte dominant, still need water for fertilization
+- **Gymnosperms** (conifers, cycads, ginkgo): "Naked seeds" in cones, vascular, pollen (no water needed), wood
+- **Angiosperms** (flowering plants): Seeds in fruits, flowers, double fertilization; monocots vs dicots (eudicots)
+- **Evolutionary trends**: Gametophyte reduction, independence from water, seeds, flowers/fruits
+
+**Animal Diversity** (Kingdom Animalia):
+
+*Invertebrates* (95% of animal species):
+- **Sponges** (Porifera): No true tissues, filter feeders, asymmetrical
+- **Cnidarians** (jellyfish, corals, sea anemones): Radial symmetry, two tissue layers, cnidocytes (stinging cells), polyp/medusa forms
+- **Flatworms** (Platyhelminthes): Bilateral symmetry begins, acoelomate, some parasitic (tapeworms, flukes)
+- **Roundworms** (Nematoda): Pseudocoelomate, complete digestive tract, many parasitic (Ascaris, hookworm)
+- **Mollusks** (Mollusca): Soft body, mantle, often shell; classes: gastropods (snails), bivalves (clams), cephalopods (squid, octopus - most intelligent invertebrates)
+- **Annelids** (segmented worms): Segmentation, closed circulatory system; earthworms, leeches, polychaetes
+- **Arthropods** (Arthropoda - largest phylum): Segmented body, jointed appendages, exoskeleton (chitin), open circulatory; groups:
+  - Chelicerates: spiders, scorpions, ticks, horseshoe crabs
+  - Crustaceans: crabs, lobsters, shrimp, barnacles
+  - Insects: 3 body parts (head/thorax/abdomen), 3 pairs legs, wings; complete/incomplete metamorphosis
+  - Myriapods: centipedes, millipedes
+- **Echinoderms** (Echinodermata): Radial symmetry (adults), water vascular system, endoskeleton; sea stars, sea urchins, sea cucumbers
+
+*Vertebrates* (Phylum Chordata, Subphylum Vertebrata):
+- **Fishes**: 
+  - Jawless (lampreys, hagfish): Most primitive
+  - Cartilaginous (sharks, rays): Cartilage skeleton, no swim bladder
+  - Bony (ray-finned and lobe-finned): Bone skeleton, swim bladder/lungs, operculum
+- **Amphibians**: Dual life (aquatic larvae/terrestrial adults), moist skin (gas exchange), external fertilization; frogs, salamanders, caecilians
+- **Reptiles**: Amniotic egg, scales (keratin), ectothermic; turtles, lizards, snakes, crocodilians; birds evolved from dinosaurs
+- **Birds**: Feathers, wings (modified forelimbs), endothermic, high metabolism, air sacs, hollow bones; flight adaptations
+- **Mammals**: Hair, mammary glands, endothermic, specialized teeth, enlarged brain; three groups:
+  - Monotremes: Egg-laying (platypus, echidna)
+  - Marsupials: Pouched development (kangaroos, opossums)
+  - Eutherians (Placentals): Placenta, longer development (most mammals including humans)
+
+**Phylogeny & Systematics**:
+- **Taxonomy**: Domain→Kingdom→Phylum→Class→Order→Family→Genus→Species
+- **Three Domains**: Bacteria, Archaea, Eukarya (protists, fungi, plants, animals)
+- **Phylogenetic trees**: Show evolutionary relationships; cladograms based on shared derived characters (synapomorphies)
+- **Molecular systematics**: DNA/protein sequences, molecular clocks estimate divergence times
+- **Major evolutionary transitions**: Eukaryotic cells (endosymbiosis), multicellularity, bilateral symmetry, segmentation, notochord/backbone, jaws, limbs, amniotic egg, endothermy
+
+**Key Applications**: Biodiversity conservation, taxonomy, evolutionary biology, pest control, biotechnology, medicine (model organisms)
 
 ## 🔗 Interconnections
 - Cell biology provides molecular foundation for all other areas

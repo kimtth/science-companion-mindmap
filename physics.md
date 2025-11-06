@@ -1,12 +1,12 @@
 ```mermaid
 flowchart LR
     Start([General Physics Overview<br/>🧭 Navigation Hub]):::blue
-    Start --> Mechanics[Mechanics<br/>📂 See: physics/physics-mechanics.md<br/>Kinematics, dynamics, energy, rotation, fluids, gravitation]:::blue
-    Start --> Waves[Waves & Oscillations<br/>📂 See: physics/physics-waves.md<br/>SHM, wave properties, sound, interference]:::blue
-    Start --> Thermo[Thermodynamics<br/>📂 See: physics/physics-thermodynamics.md<br/>Temperature, heat, entropy, engines]:::blue
-    Start --> EM[Electromagnetism<br/>📂 See: physics/physics-electromagnetism.md<br/>Fields, circuits, induction, Maxwell's equations]:::blue
-    Start --> Optics[Optics<br/>📂 See: physics/physics-optics.md<br/>Geometric & wave optics, polarization]:::blue
-    Start --> Modern[Modern Physics<br/>📂 See: physics/physics-modern.md<br/>Relativity, quantum, atomic, nuclear]:::blue
+    Start --> Mechanics["Mechanics<br/>📂 See: physics/physics-mechanics.md<br/>Kinematics, dynamics, energy, rotation, fluids, gravitation"]:::blue
+    Start --> Waves["Waves & Oscillations<br/>📂 See: physics/physics-waves.md<br/>SHM, wave properties, sound, interference"]:::blue
+    Start --> Thermo["Thermodynamics<br/>📂 See: physics/physics-thermodynamics.md<br/>Temperature, heat, entropy, engines"]:::blue
+    Start --> EM["Electromagnetism<br/>📂 See: physics/physics-electromagnetism.md<br/>Fields, circuits, induction, Maxwell's equations"]:::blue
+    Start --> Optics["Optics<br/>📂 See: physics/physics-optics.md<br/>Geometric & wave optics, polarization"]:::blue
+    Start --> Modern["Modern Physics<br/>📂 See: physics/physics-modern.md<br/>Relativity, quantum, atomic, nuclear"]:::blue
 
     Mechanics --> MechanicsDetails[📄 Kinematics, Newton's laws, energy, rotation, fluids, gravitation]:::lightblue
     Waves --> WavesDetails[📄 SHM, wave properties, sound, interference]:::lightblue
