@@ -536,6 +536,150 @@ Carbon-based molecules - the chemistry of life. Carbon's unique bonding enables 
 
 **Key Applications**: Pharmaceuticals, plastics, fuels, biochemistry, materials, dyes, pesticides, food chemistry, forensics, drug design
 
+### 11. Transition Metals
+Chemistry of d-block elements with their unique properties and coordination compounds:
+
+**Transition Metal Properties**:
+- **Electron Configuration**: (n-1)d¹⁻¹⁰ ns⁰⁻² filling pattern; exceptions: Cr [Ar]3d⁵4s¹, Cu [Ar]3d¹⁰4s¹
+- **Variable Oxidation States**: Multiple stable oxidation states (Fe²⁺/Fe³⁺, Cu⁺/Cu²⁺, Mn²⁺ to Mn⁷⁺)
+- **Colored Compounds**: d-d electron transitions absorb visible light (complementary color seen)
+- **Catalytic Activity**: Provide alternative reaction pathways (Pt in catalytic converters, Fe in Haber process, Ni in hydrogenation)
+- **Magnetic Properties**: Unpaired d electrons → paramagnetic; all paired → diamagnetic
+- **Metallic Properties**: High melting/boiling points, good conductors, malleable, ductile
+
+**Coordination Compounds** (Complex Ions):
+- **Structure**: Central metal ion + ligands (Lewis bases donating electron pairs)
+- **Ligands**: 
+  - Monodentate: single donor atom (H₂O, NH₃, Cl⁻, CN⁻, CO)
+  - Bidentate: two donor atoms (ethylenediamine en, oxalate C₂O₄²⁻)
+  - Polydentate (chelating): multiple donor atoms (EDTA⁴⁻ hexadentate)
+- **Coordination Number**: Number of ligand donor atoms bonded to metal (common: 4, 6)
+- **Geometry**: 
+  - CN = 4: tetrahedral (most common) or square planar (Ni²⁺, Pd²⁺, Pt²⁺)
+  - CN = 6: octahedral (most common for d-block)
+
+**Nomenclature**:
+- Cation named first, then anion
+- Ligands named alphabetically with prefixes (di-, tri-, tetra-, etc.)
+- Metal oxidation state in Roman numerals in parentheses
+- Common ligand names: aqua (H₂O), ammine (NH₃), chloro (Cl⁻), cyano (CN⁻)
+- Example: [Co(NH₃)₆]Cl₃ = hexaamminecobalt(III) chloride
+
+**Isomerism in Coordination Compounds**:
+- **Geometric**: cis (adjacent) vs trans (opposite) in square planar/octahedral
+- **Optical**: non-superimposable mirror images (enantiomers) in certain octahedral complexes
+- **Linkage**: ligand bonds through different atoms (NO₂⁻ nitro vs ONO⁻ nitrito)
+- **Coordination**: ligands exchange with counter ions
+
+**Crystal Field Theory** (CFT):
+- **Concept**: Ligands create electric field that splits d-orbital energies
+- **Octahedral Splitting**: 
+  - d orbitals split into t₂g (lower, dxy, dyz, dxz) and eg (higher, dx²-y², dz²)
+  - Energy gap: Δₒ (crystal field splitting energy)
+- **Tetrahedral Splitting**: Δt ≈ 4/9 Δₒ (reversed pattern, smaller splitting)
+- **Square Planar**: Four distinct levels (large splitting)
+- **Electron Filling**:
+  - Weak field (small Δ): high spin (Hund's rule, maximum unpaired)
+  - Strong field (large Δ): low spin (pair electrons in lower level)
+- **Spectrochemical Series** (ligand field strength):
+  - Weak field: I⁻ < Br⁻ < Cl⁻ < F⁻ < OH⁻ < H₂O < NH₃ < en < NO₂⁻ < CN⁻ < CO (strong field)
+- **Color**: Δ determines wavelength absorbed; complementary color observed
+- **Magnetic Properties**: High spin → more unpaired e⁻ → paramagnetic; low spin → fewer unpaired
+
+**Applications**:
+- **Biological**: Hemoglobin (Fe), chlorophyll (Mg), vitamin B₁₂ (Co)
+- **Catalysis**: Industrial processes, enzyme mimics
+- **Medicine**: Cisplatin (Pt cancer drug), MRI contrast agents (Gd³⁺)
+- **Pigments**: Paints, dyes, stained glass
+- **Analysis**: Complexometric titrations (EDTA)
+
+### 12. Nuclear Chemistry
+Chemistry of atomic nuclei, radioactivity, and nuclear reactions:
+
+**Nuclear Structure**:
+- **Composition**: Protons (Z) + neutrons (N); mass number A = Z + N
+- **Isotope Notation**: ᴬ_Z X (e.g., ¹⁴_₆C, carbon-14)
+- **Nucleons**: Protons and neutrons collectively
+- **Strong Nuclear Force**: Short-range force binds nucleons (overcomes proton repulsion)
+
+**Nuclear Stability**:
+- **N/Z Ratio**: Stable nuclei follow band of stability
+  - Light nuclei: N ≈ Z (N/Z ≈ 1)
+  - Heavy nuclei: N > Z (N/Z up to ~1.5 for largest stable nuclei)
+- **Magic Numbers**: Extra stable at Z or N = 2, 8, 20, 28, 50, 82, 126 (nuclear shell model)
+- **Mass Defect**: Δm = (Zmp + Nmn) - Mnucleus (mass "lost" to binding energy)
+- **Binding Energy**: BE = Δmc² (Einstein's equation)
+  - BE per nucleon peaks at ⁵⁶Fe (most stable)
+  - Fusion releases energy for light nuclei (A < 56)
+  - Fission releases energy for heavy nuclei (A > 56)
+
+**Radioactive Decay** (Spontaneous nuclear transformation):
+- **Alpha Decay (α)**: ⁴₂He emission
+  - ᴬ_Z X → ᴬ⁻⁴_Z₋₂Y + ⁴₂He
+  - Decreases A by 4, Z by 2
+  - Occurs in heavy nuclei (A > 200)
+  - Example: ²³⁸U → ²³⁴Th + ⁴He
+- **Beta Minus Decay (β⁻)**: Electron emission
+  - ᴬ_Z X → ᴬ_Z₊₁Y + ⁰₋₁e + ν̄e (antineutrino)
+  - Neutron → proton + electron (weak force)
+  - Increases Z by 1, A unchanged
+  - Example: ¹⁴C → ¹⁴N + ⁰e
+- **Beta Plus Decay (β⁺)**: Positron emission
+  - ᴬ_Z X → ᴬ_Z₋₁Y + ⁰₊₁e + νe (neutrino)
+  - Proton → neutron + positron
+  - Decreases Z by 1
+- **Gamma Decay (γ)**: High-energy photon emission
+  - ᴬ_Z X* → ᴬ_ZX + γ (excited → ground state)
+  - No change in A or Z
+  - Often follows α or β decay
+- **Electron Capture (EC)**: Nucleus captures inner electron
+  - ᴬ_Z X + ⁰₋₁e → ᴬ_Z₋₁Y + νe
+  - Decreases Z by 1
+
+**Decay Kinetics** (First-order process):
+- **Rate Law**: N(t) = N₀e⁻λt (exponential decay)
+- **Decay Constant**: λ (probability per unit time)
+- **Half-Life**: t₁/₂ = 0.693/λ = ln2/λ
+  - Time for half of sample to decay
+  - Independent of initial amount
+- **Activity**: A = λN (disintegrations per second)
+  - Units: Becquerel (Bq) = 1 decay/s; Curie (Ci) = 3.7×10¹⁰ Bq
+- **Carbon-14 Dating**: ¹⁴C/¹²C ratio (t₁/₂ = 5,730 years) dates organic materials up to ~50,000 years
+- **Other Dating Methods**: ²³⁸U (t₁/₂ = 4.5×10⁹ yr) for rocks, ⁴⁰K for potassium-argon dating
+
+**Nuclear Reactions**:
+- **Balancing**: Conserve mass number (A) and atomic number (Z)
+- **Transmutation**: Converting one element to another
+- **Nuclear Fission**: Heavy nucleus splits into lighter nuclei
+  - ²³⁵U + ¹n → ⁹²Kr + ¹⁴¹Ba + 3¹n + energy
+  - Chain reaction: neutrons from one fission cause more fissions
+  - Critical mass: minimum mass for sustained chain reaction
+  - Nuclear reactors: controlled chain reaction for power
+  - Products are radioactive (nuclear waste problem)
+- **Nuclear Fusion**: Light nuclei combine into heavier nucleus
+  - ²H + ³H → ⁴He + ¹n + energy (17.6 MeV)
+  - Requires extremely high temperature (millions K) to overcome repulsion
+  - Powers stars (Sun: H → He fusion)
+  - Potential clean energy (no long-lived radioactive waste)
+  - Not yet sustained on Earth (ITER project)
+
+**Applications**:
+- **Medicine**: 
+  - Diagnostic imaging: PET (¹⁸F), bone scans (⁹⁹mTc)
+  - Cancer treatment: radiotherapy (⁶⁰Co, ¹³¹I)
+  - Sterilization: medical equipment, food preservation
+- **Energy**: Nuclear power plants (~10% of world electricity)
+- **Research**: Radioactive tracers track chemical/biological processes
+- **Archaeology**: Radiocarbon dating, geological dating
+- **Industry**: Thickness gauges, smoke detectors (²⁴¹Am)
+- **Weapons**: Nuclear bombs (uncontrolled chain reaction)
+
+**Radiation Safety**:
+- **Units**: Gray (Gy) = absorbed dose; Sievert (Sv) = biological effect
+- **Shielding**: α stopped by paper, β by aluminum, γ needs lead/concrete
+- **ALARA Principle**: As Low As Reasonably Achievable
+- **Biological Effects**: DNA damage, cancer risk, acute radiation sickness at high doses
+
 ## 🔗 Interconnections
 - Atomic structure explains bonding and reactivity
 - Bonding determines molecular geometry and properties
@@ -545,6 +689,8 @@ Carbon-based molecules - the chemistry of life. Carbon's unique bonding enables 
 - Equilibrium represents dynamic balance
 - Acid-base and redox are special reaction types
 - Organic chemistry applies all concepts to carbon compounds
+- Transition metals show unique bonding and catalytic properties
+- Nuclear chemistry reveals the nucleus and radioactivity
 
 ## 💡 Learning Path
 1. Start with **Atomic Structure** - foundation of chemistry

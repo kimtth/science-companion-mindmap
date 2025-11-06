@@ -169,7 +169,87 @@ Electric and magnetic phenomena unified by Maxwell's equations. Electromagnetism
 
 **Key Applications**: Electronics, power generation, telecommunications, medical imaging, motors, generators, wireless charging, particle accelerators
 
-### 5. Modern Physics
+### 5. Optics
+The study of light and its interactions with matter, from ray tracing to wave phenomena:
+
+**Geometric Optics** (Light as rays):
+- **Reflection**: 
+  - Law of reflection: θ_incident = θ_reflected (measured from normal)
+  - Plane mirrors: virtual image, same size, reversed left-right
+  - Spherical mirrors: 
+    - Concave (converging): can form real or virtual images, f > 0
+    - Convex (diverging): only virtual images, f < 0
+  - Mirror equation: 1/f = 1/d_o + 1/d_i
+  - Magnification: m = -d_i/d_o = h_i/h_o
+  - Focal length f = R/2 (R = radius of curvature)
+- **Refraction**: 
+  - Snell's law: n₁sinθ₁ = n₂sinθ₂
+  - Index of refraction: n = c/v (speed of light in medium)
+  - Bending toward normal when entering denser medium (n₂ > n₁)
+  - Total internal reflection: θ_c = sin⁻¹(n₂/n₁) when n₁ > n₂
+  - Applications: fiber optics, diamonds, mirages, prisms
+  - Dispersion: n depends on wavelength (red bends less than blue)
+- **Lenses**:
+  - Converging (convex): brings parallel rays to focus, f > 0
+  - Diverging (concave): spreads parallel rays, f < 0
+  - Thin lens equation: 1/f = 1/d_o + 1/d_i (same as mirrors)
+  - Lensmaker's equation: 1/f = (n-1)(1/R₁ - 1/R₂)
+  - Multiple lenses: total magnification = product of individual magnifications
+- **Optical Instruments**:
+  - Eye: cornea/lens focus on retina; near point ~25 cm, far point ∞
+  - Magnifying glass: angular magnification M = 25cm/f
+  - Microscope: M_total = m_objective × M_eyepiece (two-lens system)
+  - Telescope: M = -f_objective/f_eyepiece (large objective collects light)
+  - Cameras: lens focuses on sensor/film, f-stop controls exposure
+- **Aberrations**: Imperfections in image formation
+  - Spherical: rays far from axis focus differently
+  - Chromatic: different colors focus at different points
+  - Corrections: compound lenses, parabolic mirrors
+
+**Wave Optics** (Light as waves):
+- **Nature of Light**:
+  - Electromagnetic wave: E and B fields oscillate perpendicular
+  - Speed: c = 3.00×10⁸ m/s (in vacuum)
+  - Wavelength range: visible ~400-700 nm (violet to red)
+  - Frequency: f = c/λ (determines color)
+- **Interference**:
+  - Coherent sources: constant phase relationship needed
+  - Young's double slit: 
+    - Bright fringes: dsinθ = mλ (m = 0, ±1, ±2...)
+    - Dark fringes: dsinθ = (m + ½)λ
+    - Fringe spacing: y = mλL/d (on screen distance L away)
+  - Thin film interference: 
+    - Phase change at higher-n interface (π shift)
+    - Constructive: 2nt = (m + ½)λ (reflected light)
+    - Destructive: 2nt = mλ
+    - Applications: anti-reflective coatings, soap bubbles
+  - Multiple slit: sharper, narrower maxima
+- **Diffraction**:
+  - Bending of waves around obstacles/through openings
+  - Single slit: 
+    - Dark fringes: asinθ = mλ (m = ±1, ±2...)
+    - Central maximum wider and brighter than others
+    - Width ∝ λ/a (narrower slit → wider pattern)
+  - Circular aperture: Airy disk, resolution limit
+  - Rayleigh criterion: θ_min = 1.22λ/D (just resolve two sources)
+  - Diffraction grating:
+    - Many slits: dsinθ = mλ (very sharp, bright maxima)
+    - Resolving power: R = λ/Δλ = mN (order × number of slits)
+    - Applications: spectroscopy, wavelength measurement
+- **Polarization**:
+  - Transverse wave property (not present in sound)
+  - Linear polarization: E field oscillates in one plane
+  - Polarizers: transmit only one polarization component
+  - Malus's law: I = I₀cos²θ (transmitted intensity)
+  - Sources: reflection, scattering, birefringent materials
+  - Brewster's angle: tanθ_B = n₂/n₁ (fully polarized reflected light)
+  - Applications: sunglasses, LCD displays, 3D movies, stress analysis
+- **Huygens' Principle**: Every point on wavefront is source of spherical wavelets
+- **Applications**: Microscopy, spectroscopy, holography, optical communications, laser technology
+
+**Wave-Particle Duality**: Light exhibits both wave (interference, diffraction) and particle (photoelectric effect, Compton scattering) properties
+
+### 6. Modern Physics
 20th-century revolutions that revealed the nature of space, time, and matter at extreme scales. Modern physics shows classical physics is an approximation:
 - **Special Relativity**: Physics at speeds approaching light speed
   - Two postulates: (1) laws same in all inertial frames, (2) speed of light constant
