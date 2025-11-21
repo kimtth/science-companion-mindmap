@@ -311,12 +311,62 @@ The study of light and its interactions with matter, from ray tracing to wave ph
 
 **Key Applications**: Nuclear energy, semiconductors, lasers, medical imaging, quantum computing, GPS (relativity corrections), particle physics, cosmology, cryptography
 
+### 7. Particle Physics (Standard Model)
+The fundamental building blocks of matter and their interactions:
+
+**Fundamental Particles (Fermions)**:
+- **Quarks**: Constituents of hadrons (protons, neutrons)
+  - 6 flavors: Up, Down, Charm, Strange, Top, Bottom
+  - Carry color charge (strong interaction) and electric charge (+2/3 or -1/3)
+  - Confinement: Quarks never found in isolation
+- **Leptons**: Do not experience strong force
+  - 6 flavors: Electron, Muon, Tau (charged); Electron neutrino, Muon neutrino, Tau neutrino (neutral)
+  - Neutrinos: Nearly massless, oscillate between flavors
+
+**Force Carriers (Bosons)**:
+- **Gluon (g)**: Strong nuclear force (binds quarks)
+- **Photon (γ)**: Electromagnetic force
+- **W and Z Bosons**: Weak nuclear force (radioactive decay)
+- **Higgs Boson (H)**: Gives mass to other particles via Higgs field
+- **Graviton (hypothetical)**: Gravity (not yet in Standard Model)
+
+**Beyond the Standard Model**:
+- **Dark Matter**: Invisible mass interacting only via gravity (and maybe weak force)
+- **Dark Energy**: Accelerates universe expansion
+- **Supersymmetry (SUSY)**: Every fermion has a boson partner (unproven)
+- **String Theory**: Particles are vibrating strings in higher dimensions
+
+### 8. Quantum Information & Computing
+Harnessing quantum mechanics for information processing:
+
+**Core Concepts**:
+- **Qubit (Quantum Bit)**: Basic unit of quantum information
+  - Superposition: $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$ (exists as 0 and 1 simultaneously)
+  - Bloch Sphere representation
+- **Entanglement**: Non-local correlation between qubits
+  - Bell states: Measurement of one instantly determines state of other
+- **Quantum Gates**: Operations on qubits (Hadamard, CNOT, Pauli-X)
+  - Reversible operations (unitary matrices)
+- **No-Cloning Theorem**: Impossible to create identical copy of arbitrary unknown quantum state
+
+**Quantum Algorithms**:
+- **Shor's Algorithm**: Factors large numbers exponentially faster than classical (threat to RSA)
+- **Grover's Algorithm**: Searches unsorted database in $O(\sqrt{N})$ time
+- **Quantum Simulation**: Simulating quantum systems (chemistry, materials) efficiently
+
+**Applications**:
+- **Quantum Cryptography (QKD)**: Unbreakable communication (BB84 protocol)
+- **Quantum Sensing**: Ultra-precise measurements (gravity, time, magnetic fields)
+- **Drug Discovery**: Simulating molecular interactions accurately
+
 ## 🔗 Interconnections
 - Mechanics provides the foundation for understanding all other areas
 - Waves connect to both sound (mechanics) and light (electromagnetism)
 - Thermodynamics bridges macroscopic and microscopic physics
 - Electromagnetism explains light as electromagnetic waves
 - Modern physics extends classical concepts to extreme conditions
+- Particle physics explores the fundamental constituents of matter
+- Quantum information harnesses quantum mechanics for computing
 
 ## 💡 Learning Path
 1. Start with **Mechanics** - essential foundation
@@ -336,6 +386,8 @@ The study of light and its interactions with matter, from ray tracing to wave ph
 6. Finish with **Modern Physics** - contemporary understanding
    - Requires strong mathematics (linear algebra, differential equations)
    - Challenges classical intuition
+7. Discover **Particle Physics** - standard model and beyond
+8. Investigate **Quantum Information** - future of computing
 
 **Mathematical Prerequisites**: Calculus (derivatives, integrals, differential equations), vectors, linear algebra (for quantum mechanics)
 
@@ -550,6 +602,17 @@ Physics is the most fundamental natural science, seeking universal laws governin
   - Gamma: High-energy photon emission
 - **Fission**: Heavy nucleus splits
 - **Fusion**: Light nuclei combine (requires high T & P)
+
+### Particle Physics
+- **Fermions**: Quarks (u, d, c, s, t, b) and Leptons (e, $\mu$, $\tau$, $\nu$)
+- **Bosons**: Gluon (strong), Photon (EM), W/Z (weak), Higgs (mass)
+- **Standard Model**: Unifies strong, weak, and electromagnetic forces
+
+### Quantum Information
+- **Qubit**: Superposition of |0⟩ and |1⟩
+- **Entanglement**: Non-local correlation
+- **No-cloning**: Cannot copy unknown quantum state
+- **Algorithms**: Shor's (factoring), Grover's (search)
 
 ---
 

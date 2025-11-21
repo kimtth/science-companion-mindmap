@@ -5,6 +5,7 @@ flowchart LR
     Start --> Evidence["Evidence for Evolution<br/>Fossils, anatomy, molecular data<br/>Multiple independent lines of support"]:::lightgreen
     Start --> Speciation["Speciation<br/>Formation of new species<br/>Reproductive isolation"]:::lightgreen
     Start --> PopulationGenetics["Population Genetics<br/>Allele frequencies in populations<br/>Hardy-Weinberg equilibrium"]:::lightgreen
+    Start --> HumanEvolution["Human Evolution<br/>Hominid lineage<br/>Origin of Homo sapiens"]:::lightgreen
     
     NaturalSelection --> Fitness["Fitness<br/>Reproductive success<br/>Contribution to next generation"]:::palegreen
     NaturalSelection --> Adaptation["Adaptation<br/>Traits enhancing survival<br/>Result of natural selection"]:::palegreen
@@ -133,6 +134,21 @@ flowchart LR
     Mutation --> ChromosomalMutations["Chromosomal Mutations<br/>Large-scale changes<br/>Duplications, inversions"]:::mintgreen
     Mutation --> MutationRate["Mutation Rate<br/>New mutations per generation<br/>10^-8 to 10^-9 per nucleotide"]:::mintgreen
     Mutation --> BeneficialMutations["Beneficial Mutations<br/>Increase fitness<br/>Subject to positive selection"]:::mintgreen
+
+    HumanEvolution --> HominidAncestry["Hominid Ancestry<br/>Primate lineage<br/>Common ancestor with chimps"]:::palegreen
+    HumanEvolution --> KeyAdaptations["Key Adaptations<br/>Bipedalism, brain size<br/>Tool use, language"]:::palegreen
+    HumanEvolution --> HomoSapiensOrigin["Origin of Modern Humans<br/>Out of Africa<br/>Migration patterns"]:::palegreen
+
+    HominidAncestry --> Australopithecus["Australopithecus<br/>Lucy<br/>Bipedal apes"]:::mintgreen
+    HominidAncestry --> HomoHabilis["Homo habilis<br/>Handy man<br/>First stone tools"]:::mintgreen
+    HominidAncestry --> HomoErectus["Homo erectus<br/>Upright man<br/>Fire use, migration"]:::mintgreen
+    HominidAncestry --> Neanderthals["Neanderthals<br/>Homo neanderthalensis<br/>Interbreeding with humans"]:::mintgreen
+
+    KeyAdaptations --> Bipedalism["Bipedalism<br/>Walking on two legs<br/>Freeing hands"]:::lightmint
+    KeyAdaptations --> Encephalization["Encephalization<br/>Increased brain size<br/>Cognitive complexity"]:::lightmint
+    
+    HomoSapiensOrigin --> OutOfAfrica["Out of Africa Theory<br/>Single origin<br/>Replacement of others"]:::mintgreen
+    HomoSapiensOrigin --> Multiregional["Multiregional Hypothesis<br/>Parallel evolution<br/>Gene flow maintains species"]:::mintgreen
     
     classDef green fill:#15803d,stroke:#14532d,stroke-width:3px,color:#fff
     classDef lightgreen fill:#22c55e,stroke:#16a34a,stroke-width:2px,color:#fff
