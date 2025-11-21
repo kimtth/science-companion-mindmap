@@ -6,8 +6,10 @@ flowchart LR
     Start --> Isomers["Isomers<br/>Same formula, different structure<br/>Structural, geometric, optical"]:::lightorange
     Start --> Polymers["Polymers<br/>Large molecules from repeating units<br/>Plastics, proteins, DNA"]:::lightorange
     Start --> BiologicalMolecules["Biological Molecules<br/>Organic compounds in living organisms<br/>Carbohydrates, lipids, proteins, nucleic acids"]:::lightorange
+    Start --> Spectroscopy["Spectroscopy<br/>Structure determination<br/>Interaction with EM radiation"]:::lightorange
     
     Polymers --> AdditionPolymers["Addition Polymers<br/>Monomers add without loss<br/>Polyethylene, PVC, polystyrene"]:::paleorange
+    Polymers --> CondensationPolymers["Condensation Polymers<br/>Monomers join with small molecule loss<br/>Water or HCl released"]:::paleorange
     Hydrocarbons --> Alkanes["Alkanes<br/>Single bonds only - CnH2n+2<br/>Saturated hydrocarbons"]:::paleorange
     Hydrocarbons --> Alkenes["Alkenes<br/>C=C double bonds - CnH2n<br/>Unsaturated hydrocarbons"]:::paleorange
     Hydrocarbons --> Alkynes["Alkynes<br/>C≡C triple bonds - CnH2n-2<br/>Unsaturated hydrocarbons"]:::paleorange
@@ -32,8 +34,24 @@ flowchart LR
     
     Nomenclature --> NamingAlkanes["Naming Alkanes<br/>Find longest chain<br/>Number to give lowest numbers"]:::peach
     Nomenclature --> NamingAlkenes["Naming Alkenes<br/>Indicate double bond position<br/>-ene suffix"]:::peach
-    Nomenclature --> SubstituentNames["Substituent Names<br/>Methyl, ethyl, propyl<br/>Alphabetical order"]:::peachch
+    Nomenclature --> SubstituentNames["Substituent Names<br/>Methyl, ethyl, propyl<br/>Alphabetical order"]:::peach
+    
     AdditionPolymers --> PVC["PVC<br/>Polyvinyl chloride<br/>Pipes, vinyl siding"]:::peach
+    
+    CondensationPolymers --> Polyamides["Polyamides<br/>Nylon, Kevlar<br/>Amide linkages"]:::peach
+    CondensationPolymers --> Polyesters["Polyesters<br/>PET, Dacron<br/>Ester linkages"]:::peach
+
+    Spectroscopy --> IRSpectroscopy["IR Spectroscopy<br/>Infrared absorption<br/>Identifies functional groups"]:::paleorange
+    Spectroscopy --> NMRSpectroscopy["NMR Spectroscopy<br/>Nuclear Magnetic Resonance<br/>C-H framework connectivity"]:::paleorange
+    Spectroscopy --> MassSpecOrganic["Mass Spectrometry<br/>Molecular weight & fragmentation<br/>Formula determination"]:::paleorange
+
+    IRSpectroscopy --> FingerprintRegion["Fingerprint Region<br/>Unique to molecule<br/>Below 1500 cm⁻¹"]:::peach
+    IRSpectroscopy --> FunctionalGroupRegion["Functional Group Region<br/>Diagnostic peaks<br/>C=O at 1700 cm⁻¹, O-H at 3300 cm⁻¹"]:::peach
+
+    NMRSpectroscopy --> ChemicalShift["Chemical Shift<br/>Electronic environment<br/>ppm scale"]:::peach
+    NMRSpectroscopy --> Integration["Integration<br/>Area under peak<br/>Number of protons"]:::peach
+    NMRSpectroscopy --> Splitting["Spin-Spin Splitting<br/>n+1 rule<br/>Neighboring protons"]:::peach
+
     FunctionalGroups --> Alcohols["Alcohols -OH<br/>Hydroxyl group<br/>Polar, hydrogen bonding"]:::paleorange
     FunctionalGroups --> Aldehydes["Aldehydes R-CHO<br/>Carbonyl at end<br/>Oxidation of primary alcohols"]:::paleorange
     FunctionalGroups --> Ketones["Ketones R-CO-R'<br/>Carbonyl in middle<br/>Oxidation of secondary alcohols"]:::paleorange

@@ -5,6 +5,7 @@ flowchart LR
     Start --> Quantum["Quantum Mechanics<br/>Physics at atomic scale<br/>Wave-particle duality and uncertainty"]:::lightblue
     Start --> Atomic["Atomic Physics<br/>Structure and behavior of atoms<br/>Electron shells and spectra"]:::lightblue
     Start --> Nuclear["Nuclear Physics<br/>Atomic nuclei properties<br/>Radioactivity and nuclear reactions"]:::lightblue
+    Start --> ParticlePhysics["Particle Physics<br/>Study of fundamental particles<br/>Standard Model"]:::lightblue
     
     Relativity --> TimeDilation["Time Dilation<br/>Time slows at high speeds<br/>Confirmed by particle experiments"]:::paleblue
     Relativity --> LengthContraction["Length Contraction<br/>Objects shorten in motion direction<br/>Consequence of spacetime structure"]:::paleblue
@@ -150,6 +151,26 @@ flowchart LR
     IsotopesStability --> ValleyOfStability["Valley of stability<br/>Chart of nuclides<br/>Stable band"]:::skyblue
     IsotopesStability --> MagicNumbers["Magic numbers<br/>2, 8, 20, 28, 50, 82, 126<br/>Extra stable (closed shells)"]:::skyblue
     
+    ParticlePhysics --> StandardModel["Standard Model<br/>Theory of fundamental particles<br/>Fermions and Bosons"]:::paleblue
+    ParticlePhysics --> Fermions["Fermions<br/>Matter particles (spin 1/2)<br/>Quarks and Leptons"]:::paleblue
+    ParticlePhysics --> Bosons["Bosons<br/>Force carriers (integer spin)<br/>Gauge bosons and Higgs"]:::paleblue
+    ParticlePhysics --> FundamentalForces["Fundamental Forces<br/>Strong, Weak, EM, Gravity<br/>Mediated by bosons"]:::paleblue
+
+    Fermions --> Quarks["Quarks<br/>Up, Down, Charm, Strange, Top, Bottom<br/>Form hadrons (protons, neutrons)"]:::skyblue
+    Fermions --> Leptons["Leptons<br/>Electron, Muon, Tau, Neutrinos<br/>Do not feel strong force"]:::skyblue
+    Fermions --> Antimatter["Antimatter<br/>Same mass, opposite charge<br/>Annihilates with matter"]:::skyblue
+
+    Bosons --> Gluons["Gluons<br/>Strong force carrier<br/>Binds quarks"]:::skyblue
+    Bosons --> Photons["Photons<br/>EM force carrier<br/>Massless"]:::skyblue
+    Bosons --> WZBosons["W and Z Bosons<br/>Weak force carriers<br/>Radioactive decay"]:::skyblue
+    Bosons --> HiggsBoson["Higgs Boson<br/>Gives mass to particles<br/>Higgs field excitation"]:::skyblue
+    Bosons --> Graviton["Graviton (Hypothetical)<br/>Gravity carrier<br/>Not yet observed"]:::skyblue
+
+    FundamentalForces --> StrongForcePart["Strong Force<br/>Strongest force<br/>Short range (nucleus)"]:::skyblue
+    FundamentalForces --> EMForcePart["Electromagnetic Force<br/>Infinite range<br/>Between charged particles"]:::skyblue
+    FundamentalForces --> WeakForcePart["Weak Force<br/>Short range<br/>Flavor change (decay)"]:::skyblue
+    FundamentalForces --> GravityPart["Gravity<br/>Weakest force<br/>Infinite range, mass attraction"]:::skyblue
+
     classDef blue fill:#1e40af,stroke:#1e3a8a,stroke-width:3px,color:#fff
     classDef lightblue fill:#3b82f6,stroke:#2563eb,stroke-width:2px,color:#fff
     classDef paleblue fill:#60a5fa,stroke:#3b82f6,stroke-width:2px,color:#000

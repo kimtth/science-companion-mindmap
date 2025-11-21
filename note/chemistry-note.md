@@ -593,7 +593,40 @@ Chemistry of d-block elements with their unique properties and coordination comp
 - **Pigments**: Paints, dyes, stained glass
 - **Analysis**: Complexometric titrations (EDTA)
 
-### 12. Nuclear Chemistry
+### 12. Green Chemistry & Sustainability
+Environmentally conscious chemical design - minimizing impact:
+- **12 Principles**:
+  1. Prevention (waste)
+  2. Atom Economy (maximize incorporation of reactants)
+  3. Less Hazardous Synthesis
+  4. Designing Safer Chemicals
+  5. Safer Solvents and Auxiliaries
+  6. Design for Energy Efficiency
+  7. Use of Renewable Feedstocks
+  8. Reduce Derivatives
+  9. Catalysis (vs stoichiometric reagents)
+  10. Design for Degradation
+  11. Real-time Analysis for Pollution Prevention
+  12. Inherently Safer Chemistry for Accident Prevention
+- **Metrics**: E-factor (mass waste/mass product), Process Mass Intensity (PMI)
+- **Applications**: Biodegradable plastics, solvent-free reactions, supercritical CO₂
+
+### 13. Nanochemistry
+Chemistry at the 1-100 nm scale - quantum effects dominate:
+- **Size-Dependent Properties**:
+  - Surface area to volume ratio increases dramatically
+  - Quantum confinement (band gap changes with size)
+  - Surface plasmon resonance (gold nanoparticles are red/purple)
+- **Synthesis**:
+  - Top-down: Lithography, milling
+  - Bottom-up: Sol-gel, chemical vapor deposition (CVD), self-assembly
+- **Nanomaterials**:
+  - Carbon nanotubes (CNTs): High strength, conductivity
+  - Graphene: Single layer graphite, unique electronic properties
+  - Quantum dots: Semiconductor nanocrystals (tunable fluorescence)
+- **Applications**: Drug delivery, sensors, photovoltaics, catalysis
+
+### 14. Nuclear Chemistry
 Chemistry of atomic nuclei, radioactivity, and nuclear reactions:
 
 **Nuclear Structure**:
@@ -691,6 +724,8 @@ Chemistry of atomic nuclei, radioactivity, and nuclear reactions:
 - Organic chemistry applies all concepts to carbon compounds
 - Transition metals show unique bonding and catalytic properties
 - Nuclear chemistry reveals the nucleus and radioactivity
+- Green chemistry guides sustainable practices
+- Nanochemistry bridges bulk and quantum properties
 
 ## 💡 Learning Path
 1. Start with **Atomic Structure** - foundation of chemistry
@@ -702,6 +737,10 @@ Chemistry of atomic nuclei, radioactivity, and nuclear reactions:
 7. Understand **Equilibrium** - dynamic balance
 8. Study **Acids/Bases** and **Redox** - major reaction types
 9. Finish with **Organic Chemistry** - carbon compounds
+10. Explore **Transition Metals** - complex ions
+11. Understand **Nuclear Chemistry** - radioactivity
+12. Consider **Green Chemistry** - sustainability
+13. Discover **Nanochemistry** - future materials
 
 ## 🎓 Why This Matters
 Chemistry is the central science, essential for:
@@ -1001,6 +1040,15 @@ Chemistry is the central science, essential for:
 - Metal center + ligands (electron donors)
 - **Coordination number**: Typically 4 or 6
 - **Crystal field theory**: d-orbital splitting explains color and magnetism
+
+### Green Chemistry
+- **Principles**: Prevention, Atom Economy, Safer Synthesis
+- **Goal**: Sustainability and hazard reduction
+
+### Nanochemistry
+- **Scale**: 1-100 nm
+- **Properties**: Quantum confinement, surface plasmon resonance
+- **Materials**: Graphene, CNTs, Quantum Dots
 
 ### Nuclear Chemistry
 

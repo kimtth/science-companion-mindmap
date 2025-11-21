@@ -5,6 +5,7 @@ flowchart LR
     Start --> Probability["Probability Theory<br/>Mathematical foundations"]:::purple
     Start --> Distributions["Probability Distributions<br/>Random variables"]:::purple
     Start --> Statistics["Statistical Inference<br/>Data analysis"]:::purple
+    Start --> MLFoundations["ML Foundations<br/>Statistical Learning"]:::purple
     Start --> Advanced["Advanced Topics<br/>Modern methods"]:::purple
     
     %% Probability Theory
@@ -212,6 +213,25 @@ flowchart LR
     SurvivalAnalysis --> KaplanMeier["Kaplan-Meier<br/>Survival curves"]:::palepurple
     SurvivalAnalysis --> CoxRegression["Cox Proportional Hazards<br/>Regression for survival"]:::palepurple
     
+    %% ML Foundations
+    MLFoundations --> SupervisedLearning["Supervised Learning<br/>Labeled data"]:::lightpurple
+    MLFoundations --> UnsupervisedLearning["Unsupervised Learning<br/>Unlabeled data"]:::lightpurple
+    MLFoundations --> ModelEvaluation["Model Evaluation<br/>Performance metrics"]:::lightpurple
+    MLFoundations --> BiasVariance["Bias-Variance Tradeoff<br/>Model complexity"]:::lightpurple
+
+    SupervisedLearning --> Classification["Classification<br/>Discrete labels<br/>Logistic Reg, SVM, Trees"]:::palepurple
+    SupervisedLearning --> RegressionML["Regression<br/>Continuous values<br/>Linear Reg, Neural Nets"]:::palepurple
+
+    UnsupervisedLearning --> Clustering["Clustering<br/>Grouping data<br/>K-Means, Hierarchical"]:::palepurple
+    UnsupervisedLearning --> DimensionalityReduction["Dimensionality Reduction<br/>Simplifying data<br/>PCA, t-SNE"]:::palepurple
+
+    ModelEvaluation --> CrossValidation["Cross-Validation<br/>K-Fold<br/>Robust estimation"]:::palepurple
+    ModelEvaluation --> ConfusionMatrix["Confusion Matrix<br/>TP, FP, TN, FN<br/>Accuracy, Precision, Recall"]:::palepurple
+    ModelEvaluation --> ROCAUC["ROC & AUC<br/>Threshold performance<br/>Area Under Curve"]:::palepurple
+
+    BiasVariance --> Overfitting["Overfitting<br/>High variance<br/>Memorizing noise"]:::palepurple
+    BiasVariance --> Underfitting["Underfitting<br/>High bias<br/>Too simple"]:::palepurple
+
     classDef purple fill:#7c3aed,stroke:#4c1d95,stroke-width:3px,color:#fff
     classDef lightpurple fill:#a78bfa,stroke:#7c3aed,stroke-width:2px,color:#fff
     classDef palepurple fill:#c4b5fd,stroke:#a78bfa,stroke-width:1px,color:#000
