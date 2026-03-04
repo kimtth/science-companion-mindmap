@@ -226,3 +226,9 @@ flowchart LR
     classDef mintgreen fill:#86efac,stroke:#4ade80,stroke-width:1px,color:#000
     classDef lightmint fill:#bbf7d0,stroke:#86efac,stroke-width:1px,color:#000
 ```
+
+---
+
+**See Also:** [Evolution](biology-evolution.md) | [Ecology](biology-ecology.md) | [Organisms](biology-organisms.md) | [Cell Biology](biology-cell.md) | [Genetics](biology-genetics.md)
+
+**References:** [Biology Notes](../note/biology-note.md) | [Terminology](../note/biology-terminology.md) | [Hub](../biology.md)

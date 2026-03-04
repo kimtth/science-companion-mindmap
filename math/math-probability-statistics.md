@@ -236,3 +236,9 @@ flowchart LR
     classDef lightpurple fill:#a78bfa,stroke:#7c3aed,stroke-width:2px,color:#fff
     classDef palepurple fill:#c4b5fd,stroke:#a78bfa,stroke-width:1px,color:#000
 ```
+
+---
+
+**See Also:** [Calculus](math-calculus.md) | [Linear Algebra](math-linear-algebra.md) | [Discrete Mathematics](math-discrete.md)
+
+**References:** [Math Notes](../note/math-note.md) | [Equations](../note/math-equations.md) | [Terminology](../note/math-terminology.md) | [Hub](../math.md)

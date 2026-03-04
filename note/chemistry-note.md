@@ -1,5 +1,25 @@
 # General Chemistry Overview
 
+> **Navigation:** [Hub](../chemistry.md) | [Atomic](../chemistry/chemistry-atomic.md) | [Bonding](../chemistry/chemistry-bonding.md) | [Stoichiometry](../chemistry/chemistry-stoichiometry.md) | [Equilibrium](../chemistry/chemistry-equilibrium.md) | [Acids & Bases](../chemistry/chemistry-acids-bases.md) | [Redox](../chemistry/chemistry-redox.md) | [Organic](../chemistry/chemistry-organic.md) | [Thermo & Kinetics](../chemistry/chemistry-thermochem-kinetics.md) | [Transition & Nuclear](../chemistry/chemistry-transition-nuclear.md) | [Equations](chemistry-equations.md) | [Terminology](chemistry-terminology.md)
+
+## 📋 Table of Contents
+1. [Atomic Structure](#1-atomic-structure)
+2. [Chemical Bonding](#2-chemical-bonding)
+3. [Stoichiometry](#3-stoichiometry)
+4. [States of Matter](#4-states-of-matter)
+5. [Thermochemistry](#5-thermochemistry)
+6. [Chemical Kinetics](#6-chemical-kinetics)
+7. [Chemical Equilibrium](#7-chemical-equilibrium)
+8. [Acids and Bases](#8-acids-and-bases)
+9. [Redox Reactions](#9-redox-reactions)
+10. [Organic Chemistry](#10-organic-chemistry)
+11. [Transition Metals](#11-transition-metals)
+12. [Green Chemistry & Sustainability](#12-green-chemistry--sustainability)
+13. [Nanochemistry](#13-nanochemistry)
+14. [Nuclear Chemistry](#14-nuclear-chemistry)
+
+---
+
 ## 🎯 Purpose
 This mindmap provides a comprehensive overview of college-level chemistry, covering atomic structure, chemical bonding, reactions, and the behavior of matter. It serves as a visual guide to understanding the relationships between chemical concepts and their practical applications.
 

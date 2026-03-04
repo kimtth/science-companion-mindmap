@@ -1,5 +1,17 @@
 # General Mathematics Overview
 
+> **Navigation:** [Hub](../math.md) | [Calculus](../math/math-calculus.md) | [Linear Algebra](../math/math-linear-algebra.md) | [Differential Equations](../math/math-differential-equations.md) | [Probability & Statistics](../math/math-probability-statistics.md) | [Discrete Math](../math/math-discrete.md) | [Logic & Foundations](../math/math-logic-foundations.md) | [Equations](math-equations.md) | [Terminology](math-terminology.md)
+
+## 📋 Table of Contents
+1. [Calculus](#1-calculus)
+2. [Linear Algebra](#2-linear-algebra)
+3. [Differential Equations](#3-differential-equations)
+4. [Probability & Statistics](#4-probability--statistics)
+5. [Discrete Mathematics](#5-discrete-mathematics)
+6. [Mathematical Logic & Foundations](#6-mathematical-logic--foundations)
+
+---
+
 ## 🎯 Purpose
 This mindmap provides a comprehensive overview of college-level mathematics, covering fundamental concepts from calculus and linear algebra to probability, statistics, and discrete mathematics. It serves as a visual and conceptual guide for understanding the hierarchical relationships between mathematical ideas and their applications.
 

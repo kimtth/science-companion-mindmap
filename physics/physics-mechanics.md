@@ -167,3 +167,9 @@ flowchart LR
     classDef paleblue fill:#60a5fa,stroke:#3b82f6,stroke-width:2px,color:#000
     classDef skyblue fill:#93c5fd,stroke:#60a5fa,stroke-width:1px,color:#000
 ```
+
+---
+
+**See Also:** [Waves & Oscillations](physics-waves.md) | [Thermodynamics](physics-thermodynamics.md) | [Electromagnetism](physics-electromagnetism.md) | [Modern Physics](physics-modern.md)
+
+**References:** [Physics Notes](../note/physics-note.md) | [Equations](../note/physics-equations.md) | [Terminology](../note/physics-terminology.md) | [Hub](../physics.md)

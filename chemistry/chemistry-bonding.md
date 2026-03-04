@@ -76,7 +76,7 @@ flowchart LR
     Shapes --> TrigonalBipyramidal["Trigonal Bipyramidal<br/>90 and 120 degree angles<br/>5 electron domains, PCl5"]:::peach
     Shapes --> Octahedral["Octahedral<br/>90 degree bond angles<br/>6 electron domains, SF6"]:::peach
     
-    ModifiedShapes --> Bent["Bent<br/>2 bonding, 1-2 lone<br/>Example: H2O (104.5 degrees)"]:::peach
+    ModifiedShapes --> Bent["Bent<br/>2 bonding, 2 lone pairs<br/>Example: H2O (104.5 degrees)"]:::peach
     ModifiedShapes --> TrigonalPyramidal["Trigonal Pyramidal<br/>3 bonding, 1 lone<br/>Example: NH3 (107 degrees)"]:::peach
     ModifiedShapes --> Seesaw["Seesaw<br/>4 bonding, 1 lone<br/>Example: SF4"]:::peach
     ModifiedShapes --> TShaped["T-Shaped<br/>3 bonding, 2 lone<br/>Example: ClF3"]:::peach
@@ -128,3 +128,9 @@ flowchart LR
     classDef paleorange fill:#fb923c,stroke:#f97316,stroke-width:2px,color:#000
     classDef peach fill:#fdba74,stroke:#fb923c,stroke-width:1px,color:#000
 ```
+
+---
+
+**See Also:** [Atomic Structure](chemistry-atomic.md) | [Organic Chemistry](chemistry-organic.md) | [Stoichiometry & States](chemistry-stoichiometry.md)
+
+**References:** [Chemistry Notes](../note/chemistry-note.md) | [Equations](../note/chemistry-equations.md) | [Terminology](../note/chemistry-terminology.md) | [Hub](../chemistry.md)

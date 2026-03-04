@@ -1,5 +1,7 @@
 # Biology Terminology
 
+> **Navigation:** [Hub](../biology.md) | [Biology Notes](biology-note.md) | [Cell](../biology/biology-cell.md) | [Genetics](../biology/biology-genetics.md) | [Evolution](../biology/biology-evolution.md) | [Ecology](../biology/biology-ecology.md) | [Organisms](../biology/biology-organisms.md) | [Diversity](../biology/biology-diversity.md)
+
 ## Core Concepts from Biology Mindmaps
 
 ### Cell Biology
@@ -166,7 +168,7 @@
 - **Energy Payoff Phase**: Second half of glycolysis; produces 4 ATP and 2 NADH
 - **Acetyl-CoA Formation**: Pyruvate oxidation; links glycolysis to Krebs cycle
 - **Krebs Cycle**: Citric acid cycle; produces NADH, FADH₂, CO₂ in mitochondrial matrix
-- **Electron Transport Chain**: Oxidative phosphorylation; produces ~32-34 ATP per glucose
+- **Electron Transport Chain**: Oxidative phosphorylation; produces ~30-32 ATP per glucose
 - **Complex I**: NADH dehydrogenase; pumps 4 H+ across membrane
 - **Complex II**: Succinate dehydrogenase; feeds electrons from FADH₂
 - **Complex III**: Cytochrome bc₁ complex; pumps 4 H+ across membrane
@@ -182,7 +184,7 @@
 - **Photolysis**: Water splitting; source of electrons and O₂
 - **Thylakoid Electron Transport**: Plastoquinone, cytochrome b₆f; generates proton gradient
 - **Calvin Cycle**: Carbon fixation in stroma; uses ATP and NADPH to make glucose
-- **RuBisCO**: Enzyme catalyzing CO₂ + RuBP → 3-PGA; carbon fixation
+- **RuBisCO**: Enzyme catalyzing CO₂ + RuBP → 2 × 3-PGA; carbon fixation
 - **Reduction Phase**: 3-PGA to G3P; consumes ATP and NADPH
 - **Regeneration Phase**: G3P to RuBP; continues the cycle
 

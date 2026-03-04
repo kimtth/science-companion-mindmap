@@ -62,7 +62,7 @@ flowchart LR
     SpeedSound --> SoundWater["In water: v ≈ 1500 m/s<br/>Faster in liquids<br/>Better coupling"]:::skyblue
     SpeedSound --> SoundSolid["In solids: v ≈ 5000 m/s<br/>Fastest in solids<br/>Strong molecular bonds"]:::skyblue
     
-    DopplerEffect --> DopplerSource["Moving source<br/>f' = f(v/(v ± v_s))<br/>+ approaching, - receding"]:::skyblue
+    DopplerEffect --> DopplerSource["Moving source<br/>f' = f(v/(v ∓ v_s))<br/>- approaching, + receding"]:::skyblue
     DopplerEffect --> DopplerObserver["Moving observer<br/>f' = f((v ± v_o)/v)<br/>+ approaching, - receding"]:::skyblue
     DopplerEffect --> ShockWave["Shock waves (Mach cone)<br/>v_source > v_sound<br/>Sonic boom"]:::skyblue
     
@@ -91,3 +91,9 @@ flowchart LR
     classDef paleblue fill:#60a5fa,stroke:#3b82f6,stroke-width:2px,color:#000
     classDef skyblue fill:#93c5fd,stroke:#60a5fa,stroke-width:1px,color:#000
 ```
+
+---
+
+**See Also:** [Mechanics](physics-mechanics.md) | [Optics](physics-optics.md) | [Electromagnetism](physics-electromagnetism.md) | [Thermodynamics](physics-thermodynamics.md)
+
+**References:** [Physics Notes](../note/physics-note.md) | [Equations](../note/physics-equations.md) | [Terminology](../note/physics-terminology.md) | [Hub](../physics.md)

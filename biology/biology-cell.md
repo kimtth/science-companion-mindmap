@@ -120,7 +120,7 @@ flowchart LR
     
     CellularResp --> Glycolysis["Glycolysis<br/>Glucose to pyruvate<br/>Occurs in cytoplasm, net 2 ATP"]:::palegreen
     CellularResp --> KrebsCycle["Krebs Cycle<br/>Acetyl-CoA oxidation<br/>Produces NADH, FADH₂, CO₂"]:::palegreen
-    CellularResp --> ETC["Electron Transport Chain<br/>Oxidative phosphorylation<br/>Produces ~32-34 ATP per glucose"]:::palegreen
+    CellularResp --> ETC["Electron Transport Chain<br/>Oxidative phosphorylation<br/>Produces ~30-32 ATP per glucose"]:::palegreen
     
     Glycolysis --> GlycolysisPhase1["Energy Investment Phase<br/>2 ATP consumed<br/>Glucose to fructose-1,6-bisphosphate"]:::mintgreen
     Glycolysis --> GlycolysisPhase2["Energy Payoff Phase<br/>4 ATP and 2 NADH produced<br/>2 pyruvate generated"]:::mintgreen
@@ -146,7 +146,7 @@ flowchart LR
     Photosystem --> PSI["Photosystem I<br/>P700 reaction center<br/>Reduces NADP+ to NADPH"]:::lightmint
     Photosystem --> ElectronTransportThylakoid["Thylakoid Electron Transport<br/>Plastoquinone, cytochrome b6f<br/>Generates proton gradient"]:::lightmint
     
-    CalvinCycle --> CarbonFixation["Carbon Fixation<br/>RuBisCO enzyme<br/>CO2 + RuBP → 3-PGA"]:::mintgreen
+    CalvinCycle --> CarbonFixation["Carbon Fixation<br/>RuBisCO enzyme<br/>CO2 + RuBP → 2 × 3-PGA"]:::mintgreen
     CalvinCycle --> ReductionPhase["Reduction Phase<br/>3-PGA to G3P<br/>Consumes ATP and NADPH"]:::mintgreen
     CalvinCycle --> RegenerationPhase["Regeneration Phase<br/>G3P to RuBP<br/>Continues the cycle"]:::mintgreen
     
@@ -249,3 +249,9 @@ flowchart LR
     classDef mintgreen fill:#86efac,stroke:#4ade80,stroke-width:1px,color:#000
     classDef lightmint fill:#bbf7d0,stroke:#86efac,stroke-width:1px,color:#000
 ```
+
+---
+
+**See Also:** [Genetics & Molecular Biology](biology-genetics.md) | [Evolution](biology-evolution.md) | [Organisms](biology-organisms.md) | [Ecology](biology-ecology.md) | [Diversity](biology-diversity.md)
+
+**References:** [Biology Notes](../note/biology-note.md) | [Terminology](../note/biology-terminology.md) | [Hub](../biology.md)

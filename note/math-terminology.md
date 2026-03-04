@@ -1,5 +1,7 @@
 # Mathematics Terminology
 
+> **Navigation:** [Hub](../math.md) | [Math Notes](math-note.md) | [Equations](math-equations.md) | [Calculus](../math/math-calculus.md) | [Linear Algebra](../math/math-linear-algebra.md) | [Diff. Eq.](../math/math-differential-equations.md) | [Prob. & Stats](../math/math-probability-statistics.md) | [Discrete](../math/math-discrete.md) | [Logic](../math/math-logic-foundations.md)
+
 ## Core Concepts from Mathematics Mindmaps
 
 ### Calculus

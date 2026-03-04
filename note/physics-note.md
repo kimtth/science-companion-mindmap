@@ -1,5 +1,19 @@
 # General Physics Overview
 
+> **Navigation:** [Hub](../physics.md) | [Mechanics](../physics/physics-mechanics.md) | [Waves](../physics/physics-waves.md) | [Thermodynamics](../physics/physics-thermodynamics.md) | [Electromagnetism](../physics/physics-electromagnetism.md) | [Optics](../physics/physics-optics.md) | [Modern Physics](../physics/physics-modern.md) | [Equations](physics-equations.md) | [Terminology](physics-terminology.md)
+
+## 📋 Table of Contents
+1. [Mechanics](#1-mechanics)
+2. [Waves & Oscillations](#2-waves--oscillations)
+3. [Thermodynamics](#3-thermodynamics)
+4. [Electromagnetism](#4-electromagnetism)
+5. [Optics](#5-optics)
+6. [Modern Physics](#6-modern-physics)
+7. [Particle Physics](#7-particle-physics-standard-model)
+8. [Quantum Information & Computing](#8-quantum-information--computing)
+
+---
+
 ## 🎯 Purpose
 This mindmap provides a comprehensive overview of college-level physics, covering fundamental concepts from classical mechanics to modern quantum physics. It serves as a visual learning tool to understand the hierarchical relationships between physical concepts and their applications.
 

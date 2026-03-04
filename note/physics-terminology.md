@@ -1,5 +1,7 @@
 # Physics Terminology
 
+> **Navigation:** [Hub](../physics.md) | [Physics Notes](physics-note.md) | [Equations](physics-equations.md) | [Mechanics](../physics/physics-mechanics.md) | [Waves](../physics/physics-waves.md) | [Thermodyn.](../physics/physics-thermodynamics.md) | [E&M](../physics/physics-electromagnetism.md) | [Optics](../physics/physics-optics.md) | [Modern](../physics/physics-modern.md)
+
 ## Core Concepts from Physics Mindmaps
 
 ### Mechanics

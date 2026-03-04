@@ -1,5 +1,7 @@
 # Mathematics Equations Reference
 
+> **Navigation:** [Hub](../math.md) | [Math Notes](math-note.md) | [Terminology](math-terminology.md) | [Calculus](../math/math-calculus.md) | [Linear Algebra](../math/math-linear-algebra.md) | [Diff. Eq.](../math/math-differential-equations.md) | [Prob. & Stats](../math/math-probability-statistics.md)
+
 ## 📐 Calculus
 
 ### Limits & Continuity

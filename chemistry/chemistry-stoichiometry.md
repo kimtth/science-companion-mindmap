@@ -133,3 +133,9 @@ flowchart LR
     classDef paleorange fill:#fb923c,stroke:#f97316,stroke-width:2px,color:#000
     classDef peach fill:#fdba74,stroke:#fb923c,stroke-width:1px,color:#000
 ```
+
+---
+
+**See Also:** [Atomic Structure](chemistry-atomic.md) | [Chemical Bonding](chemistry-bonding.md) | [Thermochemistry & Kinetics](chemistry-thermochem-kinetics.md)
+
+**References:** [Chemistry Notes](../note/chemistry-note.md) | [Equations](../note/chemistry-equations.md) | [Terminology](../note/chemistry-terminology.md) | [Hub](../chemistry.md)

@@ -1,5 +1,7 @@
 # Physics Equations Reference
 
+> **Navigation:** [Hub](../physics.md) | [Physics Notes](physics-note.md) | [Terminology](physics-terminology.md) | [Mechanics](../physics/physics-mechanics.md) | [Waves](../physics/physics-waves.md) | [Thermodyn.](../physics/physics-thermodynamics.md) | [E&M](../physics/physics-electromagnetism.md) | [Optics](../physics/physics-optics.md) | [Modern](../physics/physics-modern.md)
+
 ## 📐 Mechanics
 
 ### Kinematics
@@ -179,8 +181,8 @@
 ### Sound
 
 **Doppler Effect**
-- Observer moving: $f' = f\left(1 + \frac{v_o}{v}\right)$
-- Source moving: $f' = f\left(\frac{v}{v \mp v_s}\right)$
+- Observer moving: $f' = f\left(1 \pm \frac{v_o}{v}\right)$ (+ approaching, − receding)
+- Source moving: $f' = f\left(\frac{v}{v \mp v_s}\right)$ (− approaching, + receding)
 - General: $f' = f\frac{v \pm v_o}{v \mp v_s}$
 
 **Beat Frequency**

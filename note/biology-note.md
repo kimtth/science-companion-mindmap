@@ -1,5 +1,18 @@
 # General Biology - Comprehensive Overview
 
+> **Navigation:** [Hub](../biology.md) | [Cell Biology](../biology/biology-cell.md) | [Genetics](../biology/biology-genetics.md) | [Evolution](../biology/biology-evolution.md) | [Ecology](../biology/biology-ecology.md) | [Organisms](../biology/biology-organisms.md) | [Diversity](../biology/biology-diversity.md) | [Terminology](biology-terminology.md)
+
+## 📋 Table of Contents
+1. [Cell Biology](#1-cell-biology)
+2. [Genetics](#2-genetics)
+3. [Evolution](#3-evolution)
+4. [Ecology](#4-ecology)
+5. [Animal & Plant Biology](#5-animal--plant-biology)
+6. [Diversity of Life](#6-diversity-of-life)
+7. [Modern Frontiers](#7-modern-frontiers)
+
+---
+
 ## 🎯 Purpose
 This document provides a comprehensive overview of college-level biology, covering molecular mechanisms to ecosystem dynamics, including key concepts, formulas, and applications. It serves as both a conceptual guide and technical reference for understanding the fundamental principles governing living systems.
 
@@ -48,7 +61,7 @@ The study of cells, the basic unit of life. All living organisms are composed of
       - Investment phase (uses 2 ATP) and payoff phase (produces 4 ATP)
     - **Pyruvate oxidation** (mitochondrial matrix): 2 pyruvate → 2 acetyl-CoA + 2 CO₂; 2 NADH
     - **Krebs cycle** (citric acid cycle, matrix): Per glucose: 2 ATP, 6 NADH, 2 FADH₂, 4 CO₂
-    - **Electron transport chain** (inner mitochondrial membrane): ~32-34 ATP via oxidative phosphorylation
+    - **Electron transport chain** (inner mitochondrial membrane): ~30-32 ATP via oxidative phosphorylation
       - NADH → Complex I, FADH₂ → Complex II
       - Proton gradient (chemiosmosis): H⁺ pumped to intermembrane space
       - ATP synthase: H⁺ flows back, drives ATP synthesis
@@ -719,8 +732,8 @@ Biology is essential for understanding:
 - **Glycolysis** (cytoplasm): Glucose → 2 pyruvate; Net: 2 ATP, 2 NADH
 - **Pyruvate oxidation**: 2 pyruvate → 2 acetyl-CoA + 2 CO₂; 2 NADH
 - **Krebs cycle** (mitochondrial matrix): Per glucose: 2 ATP, 6 NADH, 2 FADH₂, 4 CO₂
-- **Electron transport chain**: ~32-34 ATP via oxidative phosphorylation
-- **Total**: ~36-38 ATP per glucose
+- **Electron transport chain**: ~30-32 ATP via oxidative phosphorylation
+- **Total**: ~30-32 ATP per glucose (theoretical max ~36-38)
 
 ### Photosynthesis
 **Overall equation**: $6CO_2 + 6H_2O + \text{light} \rightarrow C_6H_{12}O_6 + 6O_2$
@@ -729,7 +742,7 @@ Biology is essential for understanding:
   - Water splitting: $2H_2O \rightarrow 4H^+ + O_2 + 4e^-$
   - Non-cyclic: ATP + NADPH; Cyclic: ATP only
 - **Calvin cycle** (stroma): CO₂ fixation
-  - Rubisco fixes CO₂ to RuBP → 3-PGA
+  - Rubisco fixes CO₂ to RuBP → 2 molecules of 3-PGA
   - 3 CO₂ → 1 G3P (3-carbon sugar)
   - 6 turns to make 1 glucose
 

@@ -1,5 +1,7 @@
 # Chemistry Terminology
 
+> **Navigation:** [Hub](../chemistry.md) | [Chemistry Notes](chemistry-note.md) | [Equations](chemistry-equations.md) | [Atomic](../chemistry/chemistry-atomic.md) | [Bonding](../chemistry/chemistry-bonding.md) | [Organic](../chemistry/chemistry-organic.md) | [Redox](../chemistry/chemistry-redox.md)
+
 ## Core Concepts from Chemistry Mindmaps
 
 ### Atomic Structure

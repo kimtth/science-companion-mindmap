@@ -1,5 +1,7 @@
 # Chemistry Equations Reference
 
+> **Navigation:** [Hub](../chemistry.md) | [Chemistry Notes](chemistry-note.md) | [Terminology](chemistry-terminology.md) | [Atomic](../chemistry/chemistry-atomic.md) | [Bonding](../chemistry/chemistry-bonding.md) | [Equilibrium](../chemistry/chemistry-equilibrium.md) | [Redox](../chemistry/chemistry-redox.md)
+
 ## ⚛️ Atomic Structure & Periodicity
 
 ### Atomic Mass and Isotopes
